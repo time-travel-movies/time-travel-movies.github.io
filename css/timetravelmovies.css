@@ -3,6 +3,10 @@
 	text-decoration: none;
 }
 
+.card-text a:hover {
+	color: #212529;
+	text-decoration: none;
+}
 
 
 
