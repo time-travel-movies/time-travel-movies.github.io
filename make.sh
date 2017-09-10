@@ -1,0 +1,1 @@
+pbpaste | gensite > index.html
