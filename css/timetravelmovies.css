@@ -13,7 +13,7 @@ body {
 }
 
 .card-text a:hover {
-	color: #212529;
+	color: #838383;
 	text-decoration: none;
 }
 
@@ -37,6 +37,7 @@ body {
   max-width: 730px;
   margin-left: auto;
   margin-right: auto;
+  overflow: hidden;
 }
 
 .card-img-left {
@@ -73,6 +74,7 @@ body {
   border-radius: 0.25rem;
   width: 70%;
   margin-left: 15%;
+  overflow: hidden;
 }
 
 .card-img-left {
