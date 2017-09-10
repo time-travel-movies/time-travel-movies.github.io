@@ -1,7 +1,28 @@
+.card-horizontal {
+  position: relative;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: row;
+      flex-direction: row;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  width: 100%;
+}
+
+
 .card-img-left {
-  
   border-bottom-left-radius: calc(.25rem - 1px);
   border-top-left-radius: calc(.25rem - 1px);
   padding-right: 1em;
+  flex: 0 0 auto;
 }
 
+.card-body-right {
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  padding: 1.25rem;
+}
