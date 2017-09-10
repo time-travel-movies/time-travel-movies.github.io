@@ -18,11 +18,12 @@
   border-bottom-left-radius: calc(.25rem - 1px);
   border-top-left-radius: calc(.25rem - 1px);
   padding-right: 1em;
+  -ms-flex: 0 0 auto;
   flex: 0 0 auto;
 }
 
 .card-body-right {
-  -ms-flex: 1 1 auto;
-  flex: 0 1 auto;
+  -ms-flex: 1 0 0;
+  flex: 1 0 0;
   padding: 1.25rem;
 }
