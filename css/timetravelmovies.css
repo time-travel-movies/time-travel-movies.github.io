@@ -14,6 +14,7 @@ body {
 }
 
 
+@media (min-width: 577px) {
 
 .card-horizontal {
   position: relative;
@@ -28,7 +29,7 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
   width: 100%;
-  max-height: 268px;
+  max-height: 269px;
 }
 
 .card-img-left {
@@ -47,6 +48,8 @@ body {
   padding: 1.25rem;
 }
 
+}
+
 @media (max-width: 576px) {
 
 .card-horizontal {
@@ -63,7 +66,6 @@ body {
   border-radius: 0.25rem;
   width: 70%;
   margin-left: 15%;
-  max-height: 999999999px;
 }
 
 .card-img-left {
@@ -75,6 +77,12 @@ body {
   flex: 0 0 auto;
   width: 100%;
   padding-right: 0;
+}
+
+.card-body-right {
+  -ms-flex: 1 0 0;
+  flex: 1 0 0;
+  padding: 1.25rem;
 }
 
 }
