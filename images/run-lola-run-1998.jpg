@@ -1,0 +1,3917 @@
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html
+xmlns:og="http://ogp.me/ns#"
+xmlns:fb="http://www.facebook.com/2008/fbml">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="apple-itunes-app" content="app-id=342792525, app-argument=imdb:///title/tt0130827?src=mdot">
+            <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+            <script type="text/javascript">
+                var ue_mid = "A1EVAM02EL8SFB"; 
+                var ue_sn = "www.imdb.com";  
+                var ue_furl = "fls-na.amazon.com";
+                var ue_sid = "000-0000000-0000000";
+                var ue_id = "0M2P3NKX0ZEWV8Z0RM16";
+                (function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);
+                if (!('CS' in window)) { window.CS = {}; }
+                    window.CS.loginLocation = "https://www.imdb.com/registration/signin?u=%2Ftitle%2Ftt0130827%2F";
+            </script>
+ 
+
+        
+        <script type="text/javascript">var IMDbTimer={starttime: new Date().getTime(),pt:'java'};</script>
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "LoadTitle", {wb: 1});
+    }
+</script>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_title"] = new Date().getTime(); })(IMDbTimer);</script>
+        <title>Run Lola Run (1998) - IMDb</title>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_title"] = new Date().getTime(); })(IMDbTimer);</script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "LoadTitle", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "LoadTitle", {wb: 1});
+    }
+</script>
+        
+            <link rel="canonical" href="http://www.imdb.com/title/tt0130827/" />
+            <meta property="og:url" content="http://www.imdb.com/title/tt0130827/" />
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "LoadIcons", {wb: 1});
+    }
+</script>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/safari-favicon-517611381._CB522736552_.svg" mask rel="icon" sizes="any">
+        <link rel="icon" type="image/ico" href="http://ia.media-imdb.com/images/G/01/imdb/images/favicon-2165806970._CB522736556_.ico" />
+        <meta name="theme-color" content="#000000" />
+        <link rel="shortcut icon" type="image/x-icon" href="http://ia.media-imdb.com/images/G/01/imdb/images/desktop-favicon-2165806970._CB522736561_.ico" />
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-4151659188._CB522736129_.png" rel="apple-touch-icon"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-76x76-53536248._CB522736233_.png" rel="apple-touch-icon" sizes="76x76"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-120x120-2442878471._CB522736253_.png" rel="apple-touch-icon" sizes="120x120"> 
+        <link href="http://ia.media-imdb.com/images/G/01/imdb/images/mobile/apple-touch-icon-web-152x152-1475823641._CB522736557_.png" rel="apple-touch-icon" sizes="152x152">            
+        <link rel="search" type="application/opensearchdescription+xml" href="http://ia.media-imdb.com/images/G/01/imdb/images/imdbsearch-3349468880._CB522736605_.xml" title="IMDb" />
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_icon"] = new Date().getTime(); })(IMDbTimer);</script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "LoadIcons", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "LoadIcons", {wb: 1});
+    }
+</script>
+        
+        <meta property="pageId" content="tt0130827" />
+        <meta property="pageType" content="title" />
+        <meta property="subpageType" content="main" />
+
+
+        <link rel='image_src' href="https://images-na.ssl-images-amazon.com/images/M/MV5BMGY3MDljOWUtMTMwNy00YjIyLWFlNWUtMTJhYjA4NzIwNTIyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg">
+        <meta property='og:image' content="https://images-na.ssl-images-amazon.com/images/M/MV5BMGY3MDljOWUtMTMwNy00YjIyLWFlNWUtMTJhYjA4NzIwNTIyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY1200_CR110,0,630,1200_AL_.jpg" />
+
+        <meta property='og:type' content="video.movie" />
+    <meta property='fb:app_id' content='115109575169727' />
+
+    <meta property='og:title' content="Run Lola Run (1998)" />
+    <meta property='og:site_name' content='IMDb' />
+    <meta name="title" content="Run Lola Run (1998) - IMDb" />
+        <meta name="description" content="Directed by Tom Tykwer.  With Franka Potente, Moritz Bleibtreu, Herbert Knaup, Nina Petri. After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks." />
+        <meta property="og:description" content="Directed by Tom Tykwer.  With Franka Potente, Moritz Bleibtreu, Herbert Knaup, Nina Petri. After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks." />
+        <meta name="keywords" content="Reviews, Showtimes, DVDs, Photos, Message Boards, User Ratings, Synopsis, Trailers, Credits" />
+        <meta name="request_id" content="0M2P3NKX0ZEWV8Z0RM16" />
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "LoadCSS", {wb: 1});
+    }
+</script>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<!-- h=ics-1e-c4-2xl-7567aa2f.us-east-1 -->
+
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/collections/title-flat-v2-2522307563._CB516035297_.css" />
+        <noscript>
+            <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/wheel/nojs-2827156349._CB522739048_.css">
+        </noscript>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_post_css"] = new Date().getTime(); })(IMDbTimer);</script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "LoadCSS", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "LoadCSS", {wb: 1});
+    }
+</script>
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "LoadJS", {wb: 1});
+    }
+</script>
+  <script>(function(t){ (t.events = t.events || {})["csm_head_pre_ads"] = new Date().getTime(); })(IMDbTimer);</script>
+        
+        <script  type="text/javascript">
+            // ensures js doesn't die if ads service fails.  
+            // Note that we need to define the js here, since ad js is being rendered inline after this.
+            (function(f) {
+                // Fallback javascript, when the ad Service call fails.  
+                
+                if((window.csm == null || window.generic == null || window.consoleLog == null)) {
+                    if (window.console && console.log) {
+                        console.log("one or more of window.csm, window.generic or window.consoleLog has been stubbed...");
+                    }
+                }
+                
+                window.csm = window.csm || { measure:f, record:f, duration:f, listen:f, metrics:{} };
+                window.generic = window.generic || { monitoring: { start_timing: f, stop_timing: f } };
+                window.consoleLog = window.consoleLog || f;
+            })(function() {});
+        </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_head_delivery_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "LoadJS", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "LoadJS", {wb: 1});
+    }
+</script>
+        </head>
+    <body id="styleguide-v2" class="fixed">
+<script>
+    if (typeof uet == 'function') {
+      uet("bb");
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_body_delivery_started');
+    }
+  </script>
+        <div id="wrapper">
+            <div id="root" class="redesign">
+<script>
+    if (typeof uet == 'function') {
+      uet("ns");
+    }
+</script>
+<div id="nb20" class="navbarSprite">
+<div id="supertab">	
+	<!-- no content received for slot: top_ad -->
+	
+</div>
+  <div id="navbar" class="navbarSprite">
+<noscript>
+  <link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-no-js-3652782989._CB522736526_.css" />
+</noscript>
+<!--[if IE]><link rel="stylesheet" type="text/css" href="http://ia.media-imdb.com/images/G/01/imdb/css/site/consumer-navbar-ie-2133976414._CB522736582_.css"><![endif]-->
+<span id="home_img_holder">
+<a href="/?ref_=nv_home"
+title="Home" class="navbarSprite" id="home_img" ></a>  <span class="alt_logo">
+    <a href="/?ref_=nv_home"
+title="Home" >IMDb</a>
+  </span>
+</span>
+<form
+ method="get"
+ action="/find"
+ class="nav-searchbar-inner"
+ id="navbar-form"
+
+>
+  <div id="nb_search">
+    <noscript><div id="more_if_no_javascript"><a href="/search/">More</a></div></noscript>
+    <button id="navbar-submit-button" class="primary btn" type="submit"><div class="magnifyingglass navbarSprite"></div></button>
+    <input type="hidden" name="ref_" value="nv_sr_fn" />
+    <input type="text" autocomplete="off" value="" name="q" id="navbar-query" placeholder="Find Movies, TV shows, Celebrities and more...">
+    <div class="quicksearch_dropdown_wrapper">
+      <select name="s" id="quicksearch" class="quicksearch_dropdown navbarSprite"
+              onchange="jumpMenu(this); suggestionsearch_dropdown_choice(this);">
+        <option value="all" >All</option>
+        <option value="tt" >Titles</option>
+        <option value="ep" >TV Episodes</option>
+        <option value="nm" >Names</option>
+        <option value="co" >Companies</option>
+        <option value="kw" >Keywords</option>
+        <option value="ch" >Characters</option>
+        <option value="qu" >Quotes</option>
+        <option value="bi" >Bios</option>
+        <option value="pl" >Plots</option>
+      </select>
+    </div>
+    <div id="navbar-suggestionsearch"></div>
+  </div>
+</form>
+<div id="megaMenu">
+    <ul id="consumer_main_nav" class="main_nav">
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navTitleMenu">
+            <p class="navCategory">
+                <a href="/movies-in-theaters/?ref_=nv_tp_inth_1"
+>Movies</a>,
+                <a href="/chart/toptv/?ref_=nv_tp_tv250_2"
+>TV</a><br />
+                & <a href="/showtimes/?ref_=nv_tp_sh_3"
+>Showtimes</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu1" class="sub_nav">
+                <div id="titleAd"></div>
+                <div class="subNavListContainer">
+                    <h5>MOVIES</h5>
+                    <ul>
+                        <li><a href="/movies-in-theaters/?ref_=nv_mv_inth_1"
+>In Theaters</a></li>
+                        <li><a href="/showtimes/?ref_=nv_mv_sh_2"
+>Showtimes & Tickets</a></li>
+                        <li><a href="/trailers/?ref_=nv_mv_tr_3"
+>Latest Trailers</a></li>
+                        <li><a href="/movies-coming-soon/?ref_=nv_mv_cs_4"
+>Coming Soon</a></li>
+                        <li><a href="/calendar/?ref_=nv_mv_cal_5"
+>Release Calendar</a></li>
+                        <li><a href="/chart/top?ref_=nv_mv_250_6"
+>Top Rated Movies</a></li>
+                        <li><a href="/india/top-rated-indian-movies?ref_=nv_mv_250_in_7"
+>Top Rated Indian Movies</a></li>
+                        <li><a href="/chart/moviemeter?ref_=nv_mv_mpm_8"
+>Most Popular Movies</a></li>
+                    </ul>
+                    <h5>CHARTS & TRENDS</h5>
+                    <ul>
+                        <li><a href="/chart/?ref_=nv_ch_cht_1"
+>Box Office</a></li>
+                        <li><a href="/search/title?count=100&groups=oscar_best_picture_winners&sort=year,desc&ref_=nv_ch_osc_2"
+>Oscar Winners</a></li>
+                        <li><a href="/genre/?ref_=nv_ch_gr_3"
+>Most Popular by Genre</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>TV & VIDEO</h5>
+                    <ul>
+                        <li><a href="/tv/?ref_=nv_tvv_tv_1"
+>IMDb TV</a></li>
+                        <li><a href="/tvgrid/?ref_=nv_tvv_ls_2"
+>On Tonight</a></li>
+                        <li><a href="/chart/toptv/?ref_=nv_tvv_250_3"
+>Top Rated TV Shows</a></li>
+                        <li><a href="/chart/tvmeter?ref_=nv_tvv_mptv_4"
+>Most Popular TV Shows</a></li>
+                        <li><a href="/sections/dvd/?ref_=nv_tvv_dvd_5"
+>DVD & Blu-Ray</a></li>
+                    </ul>
+                    <h5>SPECIAL FEATURES</h5>
+                    <ul>
+                        <li><a href="/amazon-originals/?ref_=nv_sf_ams_1"
+>Amazon Originals</a></li>
+                        <li><a href="/streaming/?ref_=nv_sf_st_2"
+>Streaming</a></li>
+                        <li><a href="/scary-good/?ref_=nv_sf_scg_3"
+>Scary Good</a></li>
+                        <li><a href="/imdbpicks/?ref_=nv_sf_picks_4"
+>IMDb Picks</a></li>
+                        <li><a href="/superheroes/?ref_=nv_sf_supr_5"
+>Superheroes</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNameMenu">
+            <p class="navCategory">
+                <a href="/search/name?gender=male,female&ref_=nv_tp_cel_1"
+>Celebs</a>,
+                <a href="/awards-central/?ref_=nv_tp_awrd_2"
+>Events</a><br />
+                & <a href="/gallery/rg784964352?ref_=nv_tp_ph_3"
+>Photos</a></p>
+            <span class="downArrow"></span>
+            <div id="navMenu2" class="sub_nav">
+                <div id="nameAd"></div>
+                <div class="subNavListContainer">
+                    <h5>CELEBS</h5>
+                    <ul>
+                            <li><a href="/search/name?birth_monthday=09-10&refine=birth_monthday&ref_=nv_cel_brn_1"
+>Born Today</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_cel_nw_2"
+>Celebrity News</a></li>
+                        <li><a href="/search/name?gender=male,female&ref_=nv_cel_m_3"
+>Most Popular Celebs</a></li>
+                    </ul>
+                    <h5>PHOTOS</h5>
+                    <ul>
+                        <li><a href="/gallery/rg1859820288?ref_=nv_ph_ls_1"
+>Latest Stills</a></li>
+                        <li><a href="/gallery/rg1624939264?ref_=nv_ph_lp_2"
+>Latest Posters</a></li>
+                        <li><a href="/gallery/rg1641716480?ref_=nv_ph_lv_3"
+>Photos We Love</a></li>
+                    </ul>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>EVENTS</h5>
+                    <ul>
+                        <li><a href="/awards-central/?ref_=nv_ev_awrd_1"
+>Awards Central</a></li>
+                        <li><a href="/festival-central/?ref_=nv_ev_fc_2"
+>Festival Central</a></li>
+                        <li><a href="/oscars/?ref_=nv_ev_acd_3"
+>Oscars</a></li>
+                        <li><a href="/golden-globes/?ref_=nv_ev_gg_4"
+>Golden Globes</a></li>
+                        <li><a href="/sundance/?ref_=nv_ev_sun_5"
+>Sundance</a></li>
+                        <li><a href="/cannes/?ref_=nv_ev_can_6"
+>Cannes</a></li>
+                        <li><a href="/comic-con/?ref_=nv_ev_comic_7"
+>Comic-Con</a></li>
+                        <li><a href="/emmys/?ref_=nv_ev_rte_8"
+>Emmy Awards</a></li>
+                        <li><a href="/venice/?ref_=nv_ev_venice_9"
+>Venice Film Festival</a></li>
+                        <li><a href="/toronto/?ref_=nv_ev_tor_10"
+>Toronto Film Festival</a></li>
+                        <li><a href="/festival-central/tribeca?ref_=nv_ev_trb_11"
+>Tribeca</a></li>
+                        <li><a href="/event/all/?ref_=nv_ev_all_12"
+>All Events</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navNewsMenu">
+            <p class="navCategory">
+                <a href="/news/top?ref_=nv_tp_nw_1"
+>News</a> &<br />
+                <a href="/czone/?ref_=nv_cm_cz_2"
+>Community</a>
+            </p>
+            <span class="downArrow"></span>
+            <div id="navMenu3" class="sub_nav">
+                <div id="latestHeadlines">
+                    <div class="subNavListContainer">
+                        <h5>LATEST HEADLINES</h5>
+    <ul>
+                <li itemprop="headline">
+<a href="/news/ni61493796/?ref_=nv_nw_tn_1"
+> Venice Film Festival: Guillermo Del Toro’s ‘The Shape Of Water’ Scoops Golden Lion – Full Winners List
+</a><br />
+                        <span class="time">13 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni61494119/?ref_=nv_nw_tn_2"
+> ‘The Last Tycoon’ Canceled at Amazon
+</a><br />
+                        <span class="time">11 hours ago</span>
+                </li>
+                <li itemprop="headline">
+<a href="/news/ni61493469/?ref_=nv_nw_tn_3"
+> Box Office: ‘It’ Will See a Monster $103 Million Weekend
+</a><br />
+                        <span class="time">17 hours ago</span>
+                </li>
+    </ul>
+                    </div>
+                </div>
+                <div class="subNavListContainer">
+                    <h5>NEWS</h5>
+                    <ul>
+                        <li><a href="/news/top?ref_=nv_nw_tp_1"
+>Top News</a></li>
+                        <li><a href="/news/movie?ref_=nv_nw_mv_2"
+>Movie News</a></li>
+                        <li><a href="/news/tv?ref_=nv_nw_tv_3"
+>TV News</a></li>
+                        <li><a href="/news/celebrity?ref_=nv_nw_cel_4"
+>Celebrity News</a></li>
+                        <li><a href="/news/indie?ref_=nv_nw_ind_5"
+>Indie News</a></li>
+                    </ul>
+                    <h5>COMMUNITY</h5>
+                    <ul>
+                        <li><a href="/czone/?ref_=nv_cm_cz_2"
+>Contributor Zone</a></li>
+                        <li><a href="/poll/?ref_=nv_cm_pl_3"
+>Polls</a></li>
+                    </ul>
+                </div>
+            </div>
+        </li>
+        <li class="spacer"></li>
+        <li class="css_nav_item" id="navWatchlistMenu">
+<p class="navCategory singleLine watchlist">
+    <a href="/list/watchlist?ref_=nv_wl_all_0"
+>Watchlist</a>
+</p>
+<span class="downArrow"></span>
+<div id="navMenu4" class="sub_nav">
+    <h5>
+            YOUR WATCHLIST
+    </h5>
+    <ul id="navWatchlist">
+    </ul>
+    <script>
+    if (!('imdb' in window)) { window.imdb = {}; }
+    window.imdb.watchlistTeaserData = [
+                {
+                        href : "/list/watchlist",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot1_logged_out-1670046337._CB522736556_.jpg"
+                },
+                {
+                    href : "/search/title?count=100&title_type=feature,tv_series",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot2_popular-4090757197._CB522736562_.jpg"
+                },
+                {
+                    href : "/chart/top",
+                src : "http://ia.media-imdb.com/images/G/01/imdb/images/navbar/watchlist_slot3_top250-575799966._CB522736596_.jpg"
+                }
+    ];
+    </script>
+</div>
+        </li>
+        <li class="spacer"></li>
+    </ul>
+<script>
+if (!('imdb' in window)) { window.imdb = {}; }
+window.imdb.navbarAdSlots = {
+    titleAd : {
+    },
+    nameAd : {
+    }
+}
+</script>
+</div>
+<div id="nb_extra">
+    <ul id="nb_extra_nav" class="main_nav">
+        <li class="css_nav_item" id="navProMenu">
+            <p class="navCategory">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+> <img alt="IMDbPro Menu" src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_logo_nb-3000473826._CB530713470_.png" />
+</a>            </p>
+            <span class="downArrow"></span>
+            <div id="navMenuPro" class="imdb-pro-ad sub_nav">
+<a href="http://pro.imdb.com/signup/index.html?rf=cons_nb_hm&ref_=cons_nb_hm"
+class="imdp-pro-ad__link" > <div id="proAd" class="imdb-pro-ad__image">
+<img alt="Go to IMDbPro" height="180" width="174"
+src="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-4091932618._CB530713443_.png"
+srcset="http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user-4091932618._CB530713443_.png 1x,
+http://ia.media-imdb.com/images/G/01/imdb/images/navbar/imdbpro_menu_user_2x-2074318947._CB530713441_.png 2x" />
+</div>
+<section class="imdb-pro-ad__content">
+<h1 class="imdb-pro-ad__title">The leading information resource for the entertainment industry</h1>
+<p class="imdb-pro-ad__line">Find industry contacts &amp; talent representation</p>
+<p class="imdb-pro-ad__line">Manage your photos, credits, &amp; more</p>
+<p class="imdb-pro-ad__line">Showcase yourself on IMDb &amp; Amazon</p>
+<span role="button" class="imdb-pro-ad__button">Go to IMDbPro</a>
+</section>
+</a>            </div>
+        </li>
+        <li class="spacer"><span class="ghost">|</span></li>
+        <li>
+            <a href="/help/?ref_=nb_hlp"
+>Help</a>
+        </li>
+        <li class="social">
+
+    <a href="/offsite/?page-action=fol_fb&token=BCYtvD1zOKM_7Vp5koh8JJ6e6eMcbZpfuZ6JUPsZFTdY_B-zRMlFn8-Iiu2CAoFUTv4PqRykLstx%0D%0AihVEZ840lU650g9PvkjIdEtOKWZrALX-macGIpCyKUJ_AEHBG1yyLb-vTaJRAib5AF62-586WKi4%0D%0AySjMWud2IZtdMCxZePSo-JN8MbXoq8D8w3l2tp5Kb1UHbs0BSLPpmu9OzPY2-o3yDg%0D%0A&ref_=tt_nv_fol_fb"
+title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
+</a>
+    <a href="/offsite/?page-action=fol_tw&token=BCYgLB9DGqu8npDoIwvAsI71q_tObLwDwMmnpivaKQLMpVVKsO8-Do0d9e5thDwIY4Akh5q6rogK%0D%0ApQaAjY8jYos8XgGdvpEhIa8_c_54AkSLOEyBCkHMrBTAYmj61thI0BQ4U6KNPSdlhzAs75xSeKIj%0D%0ACS1p5vbFsJleLwLIR8E0bZEHSriqFZAZyZqX9kIOhFoeIzkcUU0TfJq3WRb7Qo3DKQ%0D%0A&ref_=tt_nv_fol_tw"
+title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
+</a>
+    <a href="/offsite/?page-action=fol_inst&token=BCYjnRDHHNbOxpvbCXMbC-xJLagIwV9IXnBiJvqGb9wITfk1nY08n9BE1Rm3V8yWhyKHdsFOvNa1%0D%0AX_OMB-nNUFqdfpm1ZO-mAzm8bKHpdlIxB-eXeBAeQZVQXrbCQyZ6L-n7TSRT4BZb09E4d-xmqMKk%0D%0AeRmzUSu4Qzc9YxsnEe8XAUiAZjQ7mBloccWil5FzKL_sOjre6RhYwVW9scn1hffmfw%0D%0A&ref_=tt_nv_fol_inst"
+title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
+</a>
+        </li>
+    </ul>
+</div>
+<div id="nb_personal">
+    <ul id="consumer_user_nav" class="main_nav">
+
+            <li class="css_nav_menu no_arrow" id="navUserMenu">
+            <p class="navCategory singleLine">
+                <a id="facebook-signin-link" href="https://graph.facebook.com/v2.8/oauth/authorize?client_id=127059960673829&scope=email%2Cuser_about_me%2Cuser_birthday&state=eyI0OWU2YyI6ImRhMjkiLCJ1IjoiaHR0cHM6Ly93d3cuaW1kYi5jb20vP3JlZl89bnZfZmJfbGdpbiIsIm1hbnVhbExpbmsiOiJmYWxzZSJ9&redirect_uri=https%3A%2F%2Fwww.imdb.com%2Fregistration%2Ffacebookhandler%2F" class="signin-button">
+                <span class="facebook-logo"></span>
+                <span class="signin-facebook-text">Sign in with Facebook</span></a>
+                <a href="https://www.imdb.com/registration/signin?u=/title/tt0130827/&ref_=nv_usr_lgin_1"
+rel="login" class="signin-other-options-text" id="nblogin" >Other Sign in options</a>
+                </p>
+        </li>
+    </ul>
+</div>
+  </div>
+</div>
+	
+	<!-- no content received for slot: navstrip -->
+	
+	
+	<!-- no content received for slot: injected_navstrip -->
+	
+<script>
+    if (typeof uet == 'function') {
+      uet("ne");
+    }
+</script>
+              
+
+                    <div id="pagecontent" class="pagecontent" itemscope itemtype="http://schema.org/Movie">
+	
+	<!-- no content received for slot: injected_billboard -->
+	
+
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+	
+	<!-- no content received for slot: navboard -->
+	
+
+
+    
+    
+    
+
+    
+    
+    
+
+<div id="content-2-wide" class="flatland">
+    <div id="main_top" class="main">
+
+    
+    
+    
+
+    
+    
+    
+
+
+    
+    
+    
+
+            <div class="title-overview">
+
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleOverviewWidget_started');
+    }
+  </script>
+        <div id="title-overview-widget" class="heroic-overview">
+            <div class="message_box">
+                <div id="star-ratings-widget-error" class="hidden error">
+                    <h2>There was an error trying to load your rating for this title.</h2>
+                    <p>Some parts of this page won't work property. Please reload or try later.</p>
+                </div>
+            </div>
+            <div class="vital">                
+      <div id="quicklinksBar" class="subnav">
+  <div id="quicklinksMainSection">
+         <a href="/title/tt0130827/fullcredits?ref_=tt_ql_1"
+class="quicklink" >FULL CAST AND CREW</a> <span class="ghost">|</span>
+         <a href="/title/tt0130827/trivia?ref_=tt_ql_2"
+class="quicklink" >TRIVIA</a> <span class="ghost">|</span>
+         <a href="/title/tt0130827/reviews?ref_=tt_ql_3"
+class="quicklink" >USER REVIEWS</a> <span class="ghost">|</span>
+      <a href="http://pro.imdb.com/title/tt0130827?rf=cons_tt_contact&ref_=cons_tt_contact"
+class="quicklink" >IMDbPro</a>
+        <span class="ghost">|</span>
+        <span class="show_more quicklink">
+            MORE<span class="titleOverviewSprite quicklinksArrowUp"></span>
+        </span>
+        <span class="show_less quicklink" style="display:none">
+           LESS<span class="titleOverviewSprite quicklinksArrowDown"></span>
+        </span>
+  </div>
+
+    <span class="titleOverviewShareButton launch-share-popover quicklink">SHARE</span>
+    <div id="share-popover">
+        <a class="close-popover" href="#">X</a>
+        <h4>Share</h4>
+        
+    
+    
+    <a onclick="window.open(&quot;http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0130827%2F%3Fref_%3Dext_shr_fb_tt&quot;, 'newWindow', 'width=626,height=436'); return false;"
+       href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0130827%2F%3Fref_%3Dext_shr_fb_tt"
+       title="Share on Facebook"
+       class="facebook"
+       target="_blank"><div class="option facebook">
+                            <span class="titlePageSprite share_facebook"></span>
+                            <div>Facebook</div>
+                        </div></a>
+    
+    
+    <a onclick="window.open(&quot;http://twitter.com/intent/tweet?text=Run%20Lola%20Run%20(18%20June%201999%20(USA))%20-%20imdb.com%2Ftitle%2Ftt0130827%2F%3Fref_%3Dext_shr_tw_tt&quot;, 'newWindow', 'width=815,height=436'); return false;"
+       href="http://twitter.com/intent/tweet?text=Run%20Lola%20Run%20(18%20June%201999%20(USA))%20-%20imdb.com%2Ftitle%2Ftt0130827%2F%3Fref_%3Dext_shr_tw_tt"
+       title="Share on Twitter"
+       class="twitter"
+       target="_blank"><div class="option twitter">
+                            <span class="titlePageSprite share_twitter"></span>
+                            <div>Twitter</div>
+                        </div></a>
+    <a href="mailto:?subject=IMDb%3A%20Run%20Lola%20Run%20(18%20June%201999%20(USA))&body=IMDb%3A%20Run%20Lola%20Run%20(18%20June%201999%20(USA))%0AAfter%20a%20botched%20money%20delivery%2C%20Lola%20has%2020%20minutes%20to%20come%20up%20with%20100%2C000%20Deutschmarks.%0Ahttp%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0130827%2F%3Fref_%3Dext_shr_eml_tt" 
+       title="Share by e-mail"
+       class=""><div class='option email'>
+                    <span class='titlePageSprite share_email'></span>
+                    <div>E-mail</div>
+                    </div></a>
+     <a href="#" class="open-checkin-popover">
+        <div class="option checkin">
+            <span class="titlePageSprite share_checkin"></span>
+            <div>Check in</div>
+        </div>
+     </a>     
+            
+    </div>
+    
+        <div id="share-checkin">
+<div class="add_to_checkins" data-const="tt0130827" data-lcn="title-maindetails">
+<span class="btn2_wrapper"><a onclick='' class="btn2 large btn2_text_on disabled checkins_action_btn"><span class="btn2_glyph">0</span><span class="btn2_text">Check in</span></a></span>    <div class="popup checkin-dialog">
+        <a class="small disabled close btn">X</a>
+        <span class="beta">Beta</span>
+        <span class="title">I'm Watching This!</span>
+        <div class="body">
+            <div class="info">Keep track of everything you watch; tell your friends.
+            </div>
+            <div class="small message_box">
+                <div class="hidden error"><h2>Error</h2> Please try again!</div>
+                <div class="hidden success"><h2>Added to Your Check-Ins.</h2> <a href="/list/checkins">View</a></div>
+            </div>
+            <textarea data-msg="Enter a comment..."></textarea>
+            <div class="share">
+                <button class="large primary btn"><span>Check in</span></button>
+<!--
+                    Check-ins are more fun when<br>
+                    you <a href="/register/sharing">enable Facebook sharing</a>!
+-->
+            </div>
+        </div>
+    </div>
+    <input type="hidden" name="49e6c" value="da29">
+</div>
+        </div>
+
+   <div class="quicklinkSection" id="full_subnav" style="display:none">           
+               <div class="quicklinkSectionColumn">
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">DETAILS</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/fullcredits?ref_=tt_ql_dt_1"
+class="quicklink" >Full Cast and Crew</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/releaseinfo?ref_=tt_ql_dt_2"
+class="quicklink" >Release Dates</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/officialsites?ref_=tt_ql_dt_3"
+class="quicklink" >Official Sites</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/business?ref_=tt_ql_dt_4"
+class="quicklink" >Box Office/Business</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/companycredits?ref_=tt_ql_dt_5"
+class="quicklink" >Company Credits</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/locations?ref_=tt_ql_dt_6"
+class="quicklink" >Filming Locations</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/technical?ref_=tt_ql_dt_7"
+class="quicklink" >Technical Specs</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/literature?ref_=tt_ql_dt_8"
+class="quicklink" >Literature</a>                </div>
+    </div>
+               </div>
+               <div class="quicklinkSectionColumn">
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">STORYLINE</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/taglines?ref_=tt_ql_stry_1"
+class="quicklink" >Taglines</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/plotsummary?ref_=tt_ql_stry_2"
+class="quicklink" >Plot Summary</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/synopsis?ref_=tt_ql_stry_3"
+class="quicklink" >Synopsis</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/keywords?ref_=tt_ql_stry_4"
+class="quicklink" >Plot Keywords</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/parentalguide?ref_=tt_ql_stry_5"
+class="quicklink" >Parents Guide</a>                </div>
+    </div>
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">RELATED ITEMS</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/news?ref_=tt_ql_rel_1"
+class="quicklink" >NewsDesk</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/externalsites?ref_=tt_ql_rel_2"
+class="quicklink" >External Sites</a>                </div>
+    </div>
+               </div>
+               <div class="quicklinkSectionColumn">
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">OPINION</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/awards?ref_=tt_ql_op_1"
+class="quicklink" >Awards</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/faq?ref_=tt_ql_op_2"
+class="quicklink" >FAQ</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/reviews?ref_=tt_ql_op_3"
+class="quicklink" >User Reviews</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/ratings?ref_=tt_ql_op_4"
+class="quicklink" >User Ratings</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/externalreviews?ref_=tt_ql_op_5"
+class="quicklink" >External Reviews</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/criticreviews?ref_=tt_ql_op_6"
+class="quicklink" >Metacritic Reviews</a>                </div>
+    </div>
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">PHOTO & VIDEO</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/mediaindex?ref_=tt_ql_pv_1"
+class="quicklink" >Photo Gallery</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/videogallery?ref_=tt_ql_pv_2"
+class="quicklink" >Trailers and Videos</a>                </div>
+    </div>
+               </div>
+               <div class="quicklinkSectionColumn">
+    <div class="quicklinkGroup">
+        <div class="quicklinkSectionHeader">DID YOU KNOW?</div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/trivia?ref_=tt_ql_trv_1"
+class="quicklink" >Trivia</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/goofs?ref_=tt_ql_trv_2"
+class="quicklink" >Goofs</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/crazycredits?ref_=tt_ql_trv_3"
+class="quicklink" >Crazy Credits</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/quotes?ref_=tt_ql_trv_4"
+class="quicklink" >Quotes</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/alternateversions?ref_=tt_ql_trv_5"
+class="quicklink" >Alternate Versions</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/movieconnections?ref_=tt_ql_trv_6"
+class="quicklink" >Connections</a>                </div>
+                <div class="quicklinkSectionItem">
+<a href="/title/tt0130827/soundtrack?ref_=tt_ql_trv_7"
+class="quicklink" >Soundtracks</a>                </div>
+    </div>
+               </div>
+   </div>
+      </div>  
+         
+                <div class="title_block">
+                    <div class="title_bar_wrapper">
+
+    <div class="ratings_wrapper">
+        <div class="imdbRating" itemtype="http://schema.org/AggregateRating" itemscope="" itemprop="aggregateRating">
+                <div class="ratingValue">
+<strong title="7.7 based on 168,993 user ratings"><span itemprop="ratingValue">7.7</span></strong><span class="grey">/</span><span class="grey" itemprop="bestRating">10</span>                </div>
+                <a href="/title/tt0130827/ratings?ref_=tt_ov_rt"
+><span class="small" itemprop="ratingCount">168,993</span></a>
+                    <div class="hiddenImportant">
+                            <span itemprop="reviewCount">712 user</span>
+                            <span itemprop="reviewCount">186 critic</span>
+                    </div>
+        </div>
+
+  <div id="star-rating-widget" class="star-rating-widget" data-tconst="tt0130827" data-rating="0" data-user=""
+  data-auth="" data-tracking-tag="title-maindetails" data-rating-share-enabled="false" data-title="Run Lola Run"
+  data-rating-next-share-time="2000-01-01T00:00:00.000Z" data-rating-share-treatment="C">
+    <div class="star-rating-button">
+      <button>
+        <span class="star-rating-star no-rating"></span>
+            <span class="star-rating-text">Rate This</span>
+      </button>
+    </div>
+  </div>
+    </div>
+    <div class="titleBar">
+        <div class="primary_ribbon">
+            <div class="ribbonize" data-tconst="tt0130827" data-caller-name="title"></div>
+            <div class="wlb_dropdown_btn" data-tconst="tt0130827" data-size="large" data-caller-name="title" data-type="primary"></div>
+            <div class="wlb_dropdown_list" style="display:none"></div>
+        </div>
+
+        <div class="title_wrapper">
+<h1 itemprop="name" class="">Run Lola Run&nbsp;<span id="titleYear">(<a href="/year/1998/?ref_=tt_ov_inf"
+>1998</a>)</span>            </h1>
+                <div class="originalTitle">Lola rennt<span class="description"> (original title)</span></div>
+            <div class="subtext">
+                    <meta itemprop="contentRating" content="R">R
+<span class="ghost">|</span>                    <time itemprop="duration" datetime="PT80M">
+                        1h 20min
+                    </time>
+<span class="ghost">|</span>
+<a href="/genre/Crime?ref_=tt_ov_inf"
+><span class="itemprop" itemprop="genre">Crime</span></a>, 
+<a href="/genre/Drama?ref_=tt_ov_inf"
+><span class="itemprop" itemprop="genre">Drama</span></a>, 
+<a href="/genre/Thriller?ref_=tt_ov_inf"
+><span class="itemprop" itemprop="genre">Thriller</span></a>
+<span class="ghost">|</span>
+<a href="/title/tt0130827/releaseinfo?ref_=tt_ov_inf"
+title="See more release dates" >18 June 1999 (USA)
+<meta itemprop="datePublished" content="1999-06-18" />
+</a>            </div>
+        </div>
+    </div>
+                    </div>
+                </div>
+
+
+
+                
+            </div>
+                <div class="minPosterWithPlotSummaryHeight">
+    <div class="poster">
+<a href="/title/tt0130827/mediaviewer/rm445984768?ref_=tt_ov_i"
+> <img alt="Run Lola Run Poster" title="Run Lola Run Poster"
+src="https://images-na.ssl-images-amazon.com/images/M/MV5BMGY3MDljOWUtMTMwNy00YjIyLWFlNWUtMTJhYjA4NzIwNTIyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_UY268_CR4,0,182,268_AL_.jpg"
+itemprop="image" />
+</a>    </div>
+    <div class="plot_summary_wrapper">
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitlePlotAndCreditSummaryWidget_started');
+    }
+  </script>
+    <div class="plot_summary minPlotHeightWithPoster">
+            <div class="summary_text" itemprop="description">
+                    After a botched money delivery, Lola has 20 minutes to come up with 100,000 Deutschmarks.
+            </div>
+        
+    <div class="credit_summary_item">
+        <h4 class="inline">Director:</h4>
+            <span itemprop="director" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0878756?ref_=tt_ov_dr"
+itemprop='url'><span class="itemprop" itemprop="name">Tom Tykwer</span></a>            </span>
+    </div>
+    <div class="credit_summary_item">
+        <h4 class="inline">Writer:</h4>
+            <span itemprop="creator" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0878756?ref_=tt_ov_wr"
+itemprop='url'><span class="itemprop" itemprop="name">Tom Tykwer</span></a> (screenplay)            </span>
+    </div>
+    <div class="credit_summary_item">
+        <h4 class="inline">Stars:</h4>
+            <span itemprop="actors" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0004376?ref_=tt_ov_st_sm"
+itemprop='url'><span class="itemprop" itemprop="name">Franka Potente</span></a>,             </span>
+            <span itemprop="actors" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0001953?ref_=tt_ov_st_sm"
+itemprop='url'><span class="itemprop" itemprop="name">Moritz Bleibtreu</span></a>,             </span>
+            <span itemprop="actors" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0460578?ref_=tt_ov_st_sm"
+itemprop='url'><span class="itemprop" itemprop="name">Herbert Knaup</span></a>            </span>
+            <span class="ghost">|</span>
+<a href="fullcredits?ref_=tt_ov_st_sm"
+>See full cast & crew</a>&nbsp;&raquo;
+    </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitlePlotAndCreditSummaryWidget_finished');
+    }
+  </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleReviewsAndPopularityWidget_started');
+    }
+  </script>
+      <div class="titleReviewBar ">           
+    <div class="titleReviewBarItem">
+<a href="criticreviews?ref_=tt_ov_rt"
+> <div class="metacriticScore score_favorable titleReviewBarSubItem">
+<span>77</span>
+</div></a>        <div class="titleReviewBarSubItem">
+            <div><a href="criticreviews?ref_=tt_ov_rt"
+>
+Metascore
+</a>            </div>
+            <div><span class="subText"> 
+               From <a href="http://www.metacritic.com"
+target='_blank'>metacritic.com</a> 
+               </span>
+            </div>
+        </div>
+    </div>
+                   <div class="divider"></div>
+           
+    <div class="titleReviewBarItem titleReviewbarItemBorder">
+        <div>
+        Reviews
+        </div>
+        <div>
+            <span class="subText">
+                   <a href="reviews?ref_=tt_ov_rt"
+>712 user</a>                   
+                       <span class="ghostText">|</span>
+                   <a href="externalreviews?ref_=tt_ov_rt"
+>186 critic</a>
+             </span>
+        </div>
+    </div>
+                   <div class="divider"></div>
+
+    <div class="titleReviewBarItem">
+  <div class="titleOverviewSprite popularityTrendUp"></div>
+        <div class="titleReviewBarSubItem">
+            <div>
+            Popularity
+            </div>
+            <div>
+                <span class="subText">
+                    4,070
+      (<span class="titleOverviewSprite popularityImageUp"></span> <span class="popularityUpOrFlat">198</span>)
+                </span>
+            </div>
+        </div>                                   
+    </div>
+      </div>              
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleReviewsAndPopularityWidget_finished');
+    }
+  </script>
+    </div>
+                </div>
+
+    
+    
+        <a name="slot_center-2"></a>
+        <div class="article">
+        
+    
+        
+                                
+
+    
+            <script type="text/javascript">if(typeof uet === 'function'){uet('bb','TitleWatchBar',{wb:1});}</script>
+                                
+
+                    
+    
+        <span class="ab_widget">
+                <div class="watchbar2 article">
+    <div class="showtime  full-table">
+        <div class="winner-option watch-option " 
+                    data-offsite="1" 
+                    data-href="/offsite/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2425422342&pf_rd_r=0M2P3NKX0ZEWV8Z0RM16&pf_rd_s=center-2&pf_rd_t=15021&pf_rd_i=tt0130827&page-action=watch-aiv&token=BCYiGfWL_dGN_P8Xxt3L117Kyx1WdIa0obC2kxqKuxCBY6Sht27xpc1-Fr3rJIK2fNoyv3sR503U%0D%0A2-adFHP5XBaZWyTlFGCtYNYHjul2mmYs5ACKbreCU4X9_5_QLdWEdcmEy3HM0G3aG-nLfy_mH7e0%0D%0AIUQmfYp-84ReEDAHMkax-IpFAQivIYTyvWA0AR07uTzU5OCI4eePT888ZMfDdrQ7EssLrncgh1GR%0D%0AoWDzv1e0mXDwQ6xo-FVmy-s5lN0QThzLI99fAr5GsX1U9s5aAp4Lsw%0D%0A&ref_=tt_wbr_aiv" 
+                    title="Watch Now">
+            <div id="watchbar2" class="watch-icon winner provider amazon-instant-video">
+            </div>
+            <div class="info table-cell">
+                <h2>
+<a href="/offsite/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2425422342&pf_rd_r=0M2P3NKX0ZEWV8Z0RM16&pf_rd_s=center-2&pf_rd_t=15021&pf_rd_i=tt0130827&page-action=watch-aiv&token=BCYiGfWL_dGN_P8Xxt3L117Kyx1WdIa0obC2kxqKuxCBY6Sht27xpc1-Fr3rJIK2fNoyv3sR503U%0D%0A2-adFHP5XBaZWyTlFGCtYNYHjul2mmYs5ACKbreCU4X9_5_QLdWEdcmEy3HM0G3aG-nLfy_mH7e0%0D%0AIUQmfYp-84ReEDAHMkax-IpFAQivIYTyvWA0AR07uTzU5OCI4eePT888ZMfDdrQ7EssLrncgh1GR%0D%0AoWDzv1e0mXDwQ6xo-FVmy-s5lN0QThzLI99fAr5GsX1U9s5aAp4Lsw%0D%0A&ref_=tt_wbr_aiv"
+class="segment-link " target="_blank"> Watch Now
+</a>                </h2>
+                <p>
+
+            From $2.99 (SD) on
+Amazon Video                </p>
+            </div>
+        </div>
+    <script type="text/javascript">
+        var xmlhttp = new XMLHttpRequest();
+        xmlhttp.open("POST","/tr/",true);
+        xmlhttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+        xmlhttp.send("ref_=tt_wbr_aiv&pt=title&spt=main&pageAction=showing-aiv&ht=clickstreamIgnore");
+    </script>
+            <div title="On Disc" class="watch-option secondary-watch-option " data-href="/offsite/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2425422342&pf_rd_r=0M2P3NKX0ZEWV8Z0RM16&pf_rd_s=center-2&pf_rd_t=15021&pf_rd_i=tt0130827&page-action=watch-amazon&token=BCYkZSC-IEQTld9oSbhqIP7Rn5pzILMMxG1PEtGQxfHoAMQ4OnKcFoPLoRYP2pHEwiuw9H-e6KnZ%0D%0A6iqVmzVV8R0-d9Hj9lZDoPFhvhAwp1iwN6yS9hJvRvvs71ijnSdg1y6mxf0QoOZrTD2OPf_Wd1qF%0D%0AHdOncRufdhLtF7tMPhGbNJMRizXgJ--QMOYX3nECoRgMESJiwPt2GwNI9hpcOcT2LnuyXj_1cRDs%0D%0ATws8U3LpEOdgMHXNRSbuPfJ7lfkzibar%0D%0A&ref_=tt_wbr_amazon" data-optiontype="physical">
+                <div class="watch-icon physical"></div>
+                <div class="secondary-info">ON&nbsp;DISC</div>
+            </div>
+    </div>
+        </div>
+
+                        
+        </span>
+
+
+
+            <script type="text/javascript">
+                if(typeof uex === 'function'){uex('ld','TitleWatchBar',{wb:1});}
+            </script>
+        
+
+
+
+
+        </div>
+    
+        </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleOverviewWidget_finished');
+    }
+  </script>
+            </div> 
+
+<script>
+    if (typeof uet == 'function') {
+      uet("af");
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_main');
+    }
+  </script>
+
+    </div> 
+
+<script>
+    if (typeof uet == 'function') {
+      uet("cf");
+    }
+</script>
+
+
+    <div id="sidebar">
+
+	
+	<!-- no content received for slot: top_rhs -->
+	
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_atf_sidebar');
+    }
+  </script>
+
+
+    
+    
+    
+
+    
+    
+    
+
+
+
+
+    
+    
+        <a name="slot_right-3"></a>
+        <div class="mini-article">
+        
+    
+        
+                                
+
+    
+            <script type="text/javascript">if(typeof uet === 'function'){uet('bb','NinjaWidget',{wb:1});}</script>
+                                
+
+                    
+    
+        <span class="ab_widget">
+        
+    
+
+    <div class="ab_ninja">
+<span class="widget_header"> <span class="oneline"> <a href="/imdbpicks/fall-movie-guide-2017/ls068449550/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=3242600762&pf_rd_r=0M2P3NKX0ZEWV8Z0RM16&pf_rd_s=right-3&pf_rd_t=15021&pf_rd_i=tt0130827&ref_=tt_ecw_fmg17_rhs_hd" > <h3>What Movies Are Coming This Fall?</h3> </a> </span> </span> <div class="widget_content no_inline_blurb"> <div class="widget_nested"> <div class="ninja_image_pack"> <div class="ninja_center"> <div class="ninja_image first_image last_image" style="width:307px;height:auto;" > <div style="width:307px;height:auto;margin:0 auto;"> <div class="widget_image"> <div class="image"> <a href="/imdbpicks/fall-movie-guide-2017/ls068449550/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=3242600762&pf_rd_r=0M2P3NKX0ZEWV8Z0RM16&pf_rd_s=right-3&pf_rd_t=15021&pf_rd_i=tt0130827&ref_=tt_ecw_fmg17_rhs_i_1" > <img itemprop="image" class="pri_image" src="https://images-na.ssl-images-amazon.com/images/M/MV5BMzg3MzE4NzYxM15BMl5BanBnXkFtZTgwNzkwNzY3MjI@._CR373,50,957,717_UX614_UY460._SY230_SX307_AL_.jpg" /> </a> <div class="widget_caption caption_overlay"> <div class="primary"> <div class="onoverflow"> <i>Jumanji: Welcome to the Jungle</i> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <p class="blurb">Replicants, superheros, and reboots await you in our Fall Movie Guide. Plan your season and take note of the hotly anticipated indie, foreign, and documentary releases, too.</p> <p class="seemore"><a href="/imdbpicks/fall-movie-guide-2017/ls068449550/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=3242600762&pf_rd_r=0M2P3NKX0ZEWV8Z0RM16&pf_rd_s=right-3&pf_rd_t=15021&pf_rd_i=tt0130827&ref_=tt_ecw_fmg17_rhs_sm" class="position_bottom supplemental" >Check out our Fall Movie Guide</a></p>    </div>
+    
+
+                        
+        </span>
+
+
+
+            <script type="text/javascript">
+                if(typeof uex === 'function'){uex('ld','NinjaWidget',{wb:1});}
+            </script>
+        
+
+
+
+
+        </div>
+    
+
+  <div class="aux-content-widget-2"> 
+    <div class="social">     
+  <script type="text/javascript">if (uet) { uet('bb', 'facebook_like_iframe', {wb: 1}); }</script>
+  <div class="social_networking_like">
+    <iframe
+      id="iframe_like"
+      name="fbLikeIFrame_0"
+      class="social-iframe"
+      scrolling="no"
+      frameborder="0"
+      allowTransparency="allowTransparency"
+      ref="http://www.imdb.com/title/tt0130827/"
+      width=280
+      height=65></iframe>
+  </div>
+    </div>
+  </div>
+
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+	
+	<!-- no content received for slot: rhs_cornerstone -->
+	
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "RelatedNewsWidgetRHS", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_RelatedNewsWidgetRHS_started');
+    }
+  </script>
+
+      <div class="mini-article" >
+        <h3>Related News</h3>
+
+        
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/title/tt0130827/news?ref_=tt_nwr_1#ni61407219"
+>Franka Potente Stars In New Pro-Vegan Campaign</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  14 August 2017 9:30 AM, -08:00
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000718?ref_=tt_nwr_1"
+>Look to the Stars</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item even" >
+                        <span itemprop="headline" >
+                            <a href="/title/tt0130827/news?ref_=tt_nwr_2#ni61235167"
+>Film Movement Picks Up 'Bye Bye Germany' for North America</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  22 June 2017 12:37 AM, -08:00
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0000001?ref_=tt_nwr_2"
+>The Hollywood Reporter - Movie News</a>
+                                </span>
+                        </small>
+                    </div>
+                
+                    
+                    
+                    <div class="news_item odd" >
+                        <span itemprop="headline" >
+                            <a href="/title/tt0130827/news?ref_=tt_nwr_3#ni61211234"
+>Watch the First 'Happy Death Day' Trailer, a Horror Twist on 'Groundhog Day'</a>
+                        </span>
+                        
+                        <br /><small>
+                                <span itemprop="datePublished">
+                                  15 June 2017 5:00 PM, -08:00
+                                </span>
+                            
+                                <span class="ghost">|</span><span itemprop="provider" >
+                                        <a href="/news/ns0005146?ref_=tt_nwr_3"
+>Movies.com</a>
+                                </span>
+                        </small>
+                    </div>
+       
+            <div class="see-more">
+                <a href="/title/tt0130827/news?ref_=tt_nwr_sm"
+>See all 536 related articles</a>&nbsp;&raquo;
+            </div>
+
+      </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_RelatedNewsWidgetRHS_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "RelatedNewsWidgetRHS", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "RelatedNewsWidgetRHS", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+	
+	<!-- no content received for slot: middle_rhs -->
+	
+
+
+    
+    
+    
+
+
+    
+    
+        <a name="slot_right-7"></a>
+        <div class="mini-article">
+        
+    
+        
+                                
+
+    
+            <script type="text/javascript">if(typeof uet === 'function'){uet('bb','ZergnetWidget',{wb:1});}</script>
+                                
+
+                    
+    
+        <span class="ab_widget">
+            <div class="ab_zergnet">
+<span class="widget_header"> <span class="oneline"> <h3>Around The Web</h3> <span>&nbsp;|&nbsp;</span> <h4>Powered by ZergNet</h4> </span> </span> <div class="widget_content no_inline_blurb"> <div class="widget_nested"> <iframe class="zergnet-frame__sidebar" scrolling="no" seamless src="http://ia.media-imdb.com/images/G/01/imdb/html/zergnet-2975767399._CB522861833_.html?widgetId=46653"></iframe> </div> </div>    </div>
+
+                        
+        </span>
+
+
+
+            <script type="text/javascript">
+                if(typeof uex === 'function'){uex('ld','ZergnetWidget',{wb:1});}
+            </script>
+        
+
+
+
+
+        </div>
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "RelatedListsWidget", {wb: 1});
+    }
+</script>
+        <div class="mini-article">
+            <div id="relatedListsWidget">
+                <div class="rightcornerlink">
+                    <a href="/list/create?ref_=tt_rls"
+>Create a list</a>&nbsp;&raquo;
+                </div>
+                <h3>User Lists</h3>
+                <p>Related lists from IMDb users</p>
+
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls002724461?ref_=tt_rls_1"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BZjY5ZjQyMjMtMmEwOC00Nzc2LTllYTItMmU2MzJjNTg1NjY0XkEyXkFqcGdeQXVyNjQ1MTMzMDQ@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls002724461?ref_=tt_rls_1"
+>
+Watched
+</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 35 titles
+            <br />created 08&nbsp;Feb&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls002249220?ref_=tt_rls_2"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTg2MTg5MTY0M15BMl5BanBnXkFtZTgwMjA5MDgxMTE@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls002249220?ref_=tt_rls_2"
+>
+My Movies: Crime/Drama
+</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 31 titles
+            <br />created 04&nbsp;Mar&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls050716658?ref_=tt_rls_3"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzODUwMjM1M15BMl5BanBnXkFtZTcwNjU2MjU2MQ@@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls050716658?ref_=tt_rls_3"
+>
+that's my Taste
+</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 37 titles
+            <br />created 21&nbsp;Oct&nbsp;2012
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview odd">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls054294168?ref_=tt_rls_4"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BM2ZkNjM5MjEtNTBlMC00OTI5LTgyYmEtZDljMzNmNzhiNzY0XkEyXkFqcGdeQXVyNDYyMDk5MTU@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls054294168?ref_=tt_rls_4"
+>
+Mejores películas 1998
+</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 30 titles
+            <br />created 20&nbsp;Dec&nbsp;2013
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+    <div class="list-preview even">
+        <div class="list-preview-item-narrow">
+<a href="/list/ls077719832?ref_=tt_rls_5"
+><img height="86" width="86" alt="list image" title="list image"src="/images/nopicture/medium/film.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMjUyYTNmMDQtZjgwYy00NWFmLWIwZDItODg5NjQ1OTM5ODc2XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_UX86_CR0,0,86,86_AL_.jpg" /></a>        </div>
+        <div class="list_name">
+            <strong><a href="/list/ls077719832?ref_=tt_rls_5"
+>
+Foreign Language Film Submissions to the 71st Academy Awards held in 1999 to get an Oscar Nomination in the Best Non-English Movie Category
+</a></strong>
+        </div>
+        <div class="list_meta">
+            a list of 45 titles
+            <br />created 27&nbsp;Sep&nbsp;2014
+        </div>
+        <div class="clear">&nbsp;</div>
+    </div>
+                <div class="see-more">
+                    <a href="/lists/tt0130827?ref_=tt_rls_sm"
+>See all related lists</a>&nbsp;&raquo;
+                </div>
+            </div>
+        </div>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "RelatedListsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "RelatedListsWidget", {wb: 1});
+    }
+</script>
+        
+
+
+    
+    
+        <a name="slot_right-8"></a>
+        <div class="mini-article">
+        
+    
+        
+                                
+
+    
+            <script type="text/javascript">if(typeof uet === 'function'){uet('bb','MessageWidget',{wb:1});}</script>
+                                
+
+                    
+    
+        <span class="ab_widget">
+        
+    
+
+    <div class="ab_message">
+<span class="widget_header"> <h3>Related Items</h3> </span> <div class="widget_content inline_blurb"> <div class="widget_nested"> <div class="ninja_image_pack"> <div class="ninja_left"> <div class="ninja_image first_image last_image" style="width:38px;height:auto;" > <div style="width:38px;height:auto;margin:0 auto;"> <div class="widget_image"> <div class="image"> <a href="/offsite/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2696332842&pf_rd_r=0M2P3NKX0ZEWV8Z0RM16&pf_rd_s=right-8&pf_rd_t=15021&pf_rd_i=tt0130827&page-action=offsite-amazon&token=BCYl0hwi6U42DEj0V5u-ajOkU1ee-1unUW00c3zs6OJ9NELlRiehkqxQc1D3XhW3DXsLt8f2-pv0%0D%0AxN_0GZMTvolfY2rcbOcw7WtT_losZZdAXMDzEqO0pSd8x9kMT-vWkYJR0l-sDkYpm8xRSuiaOere%0D%0ADpihbF52SRlhvsYxQoi97I8-f6bZKVhNwk9GynPOKD8CM2t0RglqH8KNskotBO6LKgtPXFJwToLg%0D%0AoVfVPlWNLiCvrS5OzczK1TGcRlgUPAIhuSsDYl1PY8M9PkhigbtaL7LuECn2mwsSek-rYRtQuZw%0D%0A&ref_=tt_msg_i_1" > <img itemprop="image" class="pri_image" title="Search for &quot;Run Lola Run&quot; on Amazon.com" alt="Search for &quot;Run Lola Run&quot; on Amazon.com" src="https://images-na.ssl-images-amazon.com/images/G/01/imdb/images/widget/amazon._CB339202444_.png" /> </a> </div> </div> </div> </div> </div> </div> </div> <div class="ninja_image ninja_image_fixed_padding widget_padding"></div><div class="widget_inline_blurb"><p class="blurb">Search for "<a href="/offsite/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2696332842&pf_rd_r=0M2P3NKX0ZEWV8Z0RM16&pf_rd_s=right-8&pf_rd_t=15021&pf_rd_i=tt0130827&page-action=offsite-amazon&token=BCYsUu4xSybziJ2iY5rfuMvM6WuONuj2zYku41pufAGutiWwqO6Qu-6HxGz9Oex1TsZdgm3ore4n%0D%0ApH2Iy1C_HORhAr6PXcXGvjDhftu4oRt64S_3vjJcE8pzvm1_-FxiInaIQfHg7Diw0iYBV5VUbEyC%0D%0AVMCHeKAt08wVzSB3eTa9M3ccRabhcDZ1mYsKmxYY9zp4Lj2rXAaKBzK7ngVukAc0h9IqBQni2IPF%0D%0A3LHuyRwsHgayADiObZ1YL3hHXesesl_Ma8ZHXzhHcnoW_hRBXGzjfavflKAGUxvzXNx_vWvU4JQ%0D%0A&ref_=tt_msg_ov">Run Lola Run</a>" on <a href="/offsite/?pf_rd_m=A2FGELUUNOQJNL&pf_rd_p=2696332842&pf_rd_r=0M2P3NKX0ZEWV8Z0RM16&pf_rd_s=right-8&pf_rd_t=15021&pf_rd_i=tt0130827&page-action=offsite-amazon&token=BCYiR2xaQE71iQaWM2Y1xyxmH3syY49gBiC_wc55DwkTnDYVnDKWxmQsJWxM8IfHhuk4ve3IyraB%0D%0AtEABy9Zf2IjGQUV86MW-4CrOm-hootswIGagfxfkPzkf9Ki5Hvwh6Q2oGjF4g-qN1hc6O_D9ENMo%0D%0ARpPWX5OX92HeKjbfafJwoH0nNAhzdtBKjb49VsGh_MWl-5--7YKpL-Q9Vqj_SzZTle8hIYSFrTOY%0D%0AY1R1A5vTmblKIHfuLDXbH1YJBEBaradHe-UbElmAJfv01PjT0v3qQBYkaJfMZhaGSDdGTXjteQ8%0D%0A&ref_=tt_msg_ov">Amazon.com</a></p> </div> </div>    </div>
+    
+
+                        
+        </span>
+
+
+
+            <script type="text/javascript">
+                if(typeof uex === 'function'){uex('ld','MessageWidget',{wb:1});}
+            </script>
+        
+
+
+
+
+        </div>
+    
+
+	
+	<!-- no content received for slot: btf_rhs1 -->
+	
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "ConnectWidget", {wb: 1});
+    }
+</script>
+    <div class="mini-article">
+        <h3>Connect with IMDb</h3>
+        <div id="facebookWrapper">
+            <iframe
+                scrolling="no"
+                frameborder="0"
+                id="facebookIframe"
+                allowTransparency="true"></iframe>
+        </div>
+        <hr>
+        <iframe allowtransparency="true"
+            frameborder="0"
+            role="presentation"
+            scrolling="no"
+            id="twitterIframe"></iframe>
+    </div>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "ConnectWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "ConnectWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+
+  
+      
+    <div class="mini-article">
+        <div id="ratingWidget">
+            <h3>Share this Rating</h3>
+            <p>
+                Title:
+                <strong>Run Lola Run</strong>
+                (1998)
+            </p>
+            <span class="imdbRatingPlugin imdbRatingStyle1" data-user="" data-title="tt0130827" data-style="t1">
+<a href="/title/tt0130827/?ref_=tt_plg_rt"
+> <img alt="Run Lola Run (1998) on IMDb"
+src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_46x22-2264473254._CB522736238_.png">
+</a>                <span class="rating">7.7<span class="ofTen">/10</span></span>                
+<img src="http://ia.media-imdb.com/images/G/01/imdb/images/plugins/imdb_star_22x21-2889147855._CB522736550_.png" class="star">
+            </span>
+            <p>Want to share IMDb's rating on your own site? Use the HTML below.</p>
+            <div id="ratingPluginHTML" class="hidden">
+                <div class="message_box small">
+                    <div class="error">
+                        <p>
+                        You must be a registered user to use the IMDb rating plugin.
+                        </p>
+                        <a href="/register/login?ref_=tt_plg_rt"
+class="cboxElement" rel='login'>Login</a>
+                    </div>
+                </div>
+            </div>
+            <div id="ratingWidgetLinks">
+                <span class="titlePageSprite arrows show"></span>
+                <a href="/plugins?titleId=tt0130827&ref_=tt_plg_rt"
+id="toggleRatingPluginHTML" itemprop='url' >Show HTML</a>
+                <a href="/plugins?titleId=tt0130827&ref_=tt_plg_rt"
+itemprop='url'>View more styles</a>
+            </div>
+        </div>
+    </div>
+
+
+    
+    
+    
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleMainDetailsRelatedPolls", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMainDetailsRelatedPolls_started');
+    }
+  </script>
+<div class="mini-article poll-widget-rhs ">
+    <style>
+        .mini-article.poll-widget-rhs ul li { margin-bottom: 0.5em; clear: left; font-weight: bold;}
+        .mini-article.poll-widget-rhs span { margin-bottom: 0.5em; clear: left;}
+        .mini-article.poll-widget-rhs img { float: left; padding: 0 5px 5px 0; height: 86px; width: 86px;}
+    </style>
+    <h3>User Polls</h3>
+    <ul>
+        <li>
+<a href="/poll/tyTM0Zf-atk/?ref_=tt_po_i1"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NjgyNzgzOV5BMl5BanBnXkFtZTcwNDM0ODkyMw@@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/tyTM0Zf-atk/?ref_=tt_po_q1"
+>They Do Run Run</a>
+        <li>
+<a href="/poll/-hXqBTjrvrM/?ref_=tt_po_i2"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BNWE4OTNiM2ItMjY4Ni00ZTViLWFiZmEtZGEyNGY2ZmNlMzIyXkEyXkFqcGdeQXVyMDU5NDcxNw@@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/-hXqBTjrvrM/?ref_=tt_po_q2"
+>Best Movie with Runtime below 90 Minutes?</a>
+        <li>
+<a href="/poll/STR_40vzMUs/?ref_=tt_po_i3"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2Mzg0NjA2N15BMl5BanBnXkFtZTcwOTc5NjQzMw@@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/STR_40vzMUs/?ref_=tt_po_q3"
+>Favorite Female-Dominated Science Fiction Movie</a>
+        <li>
+<a href="/poll/kzLVuRtX7Vs/?ref_=tt_po_i4"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BZDA3NDExMTUtMDlhOC00MmQ5LWExZGUtYmI1NGVlZWI4OWNiXkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/kzLVuRtX7Vs/?ref_=tt_po_q4"
+>Ready Player One!</a>
+        <li>
+<a href="/poll/0w088HZJxCw/?ref_=tt_po_i5"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTY1NzIxOTcxM15BMl5BanBnXkFtZTgwMjY0ODgwNzE@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/0w088HZJxCw/?ref_=tt_po_q5"
+>A Little Bit of Germany</a>
+        <li>
+<a href="/poll/PeYUwSDk1iw/?ref_=tt_po_i6"
+><img height="86" width="86" alt="poll image" title="poll image"src="http://i.imdb.com/images/nopicture/140x209/unknown.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTcwNTgzMDgxNF5BMl5BanBnXkFtZTgwNzAxMzcwMzE@._V1_SX86_CR0,0,86,86_.jpg" /></a>        <a href="/poll/PeYUwSDk1iw/?ref_=tt_po_q6"
+>20 Live Action Films with At Least One Animated Sequence</a>
+    </ul>
+    <div class="see-more"><a href="/poll/?ref_=tt_po_sm"
+>See more polls &raquo;</a></div>
+</div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMainDetailsRelatedPolls_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleMainDetailsRelatedPolls", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleMainDetailsRelatedPolls", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+	
+	<!-- no content received for slot: bottom_rhs -->
+	
+
+
+    
+    
+    
+        
+	
+	<!-- no content received for slot: btf_rhs2 -->
+	
+
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    </div> 
+
+    <div id="main_bottom" class="main">
+
+    
+    
+    
+
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleAwardsWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsWidget_started');
+    }
+  </script>
+      <div class="article highlighted" id="titleAwardsRanks">
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleAwardsSummaryWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsSummaryWidget_started');
+    }
+  </script>
+    <span itemprop="awards">
+      <b>
+        Nominated for
+        1
+        BAFTA Film Award.
+      </b>
+    </span>
+    <span itemprop="awards">
+        Another
+      28 wins &amp; 19 nominations.
+    </span>
+    <span class="see-more inline">
+<a href="/title/tt0130827/awards?ref_=tt_awd"
+class="btn-full" >See more awards</a>&nbsp;&raquo;    </span>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsSummaryWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleAwardsSummaryWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleAwardsSummaryWidget", {wb: 1});
+    }
+</script>
+      </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleAwardsWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleAwardsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleAwardsWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleMediaStripWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_started');
+    }
+  </script>
+
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_started');
+    }
+  </script>
+
+      <div class = "article" id="titleMediaStrip">
+        <div class="mediastrip_container combined">
+                <div id="combined-videos">
+                    <h2>Videos</h2>
+    <div class="mediastrip_big">
+                <span class="video_slate_last" itemscope itemtype="http://schema.org/videoObject">
+                <meta itemprop="duration" content="T1M23S" />
+
+<a href="/title/tt0130827/videoplayer/vi880649753?ref_=tt_pv_vi_aiv_1"
+title="Run Lola Run -- Trailer for Run Lola Run" alt="Run Lola Run -- Trailer for Run Lola Run" class="video-modal" data-video="vi880649753" data-context="screenplay" data-rid="0M2P3NKX0ZEWV8Z0RM16" widget-context="titleMaindetails" itemprop="url" ><img height="105" width="139" alt="Run Lola Run -- Trailer for Run Lola Run" title="Run Lola Run -- Trailer for Run Lola Run"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/no-video-slate-856072904._CB522736558_.png"class="loadlate hidden video" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMjI4ODc2NTUxOV5BMl5BanBnXkFtZTcwODk0Njk1OQ@@._V1_SP229,229,0,C,0,0,0_CR45,62,139,105_PIimdb-blackband-204-14,TopLeft,0,0_PIimdb-blackband-204-28,BottomLeft,0,1_CR0,0,139,105_PIimdb-bluebutton-big,BottomRight,-1,-1_ZATrailer,2,76,16,137,verdenab,8,255,255,255,1_ZAon%2520IMDb,2,1,14,137,verdenab,7,255,255,255,1_ZA01%253A23,103,1,14,36,verdenab,7,255,255,255,1_.jpg" itemprop='image' viconst="vi880649753" /></a>            </span>
+    </div>
+                </div>
+                <div id="combined-photos">
+                    <h2>Photos</h2>
+    <div class="mediastrip">        	
+                
+<a href="/title/tt0130827/mediaviewer/rm1908966656?context=default&ref_=tt_pv_md_1"
+itemprop='thumbnailUrl'><img height="105" width="105" alt="Franka Potente in Run Lola Run (1998)" title="Franka Potente in Run Lola Run (1998)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB522736550_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTQxNTUyNDEzOF5BMl5BanBnXkFtZTcwNDg2MTAzNA@@._V1_UX105_CR0,0,105,105_AL_.jpg" itemprop='image' /></a>                
+<a href="/title/tt0130827/mediaviewer/rm988550400?context=default&ref_=tt_pv_md_2"
+itemprop='thumbnailUrl'><img height="105" width="105" alt="Franka Potente in Run Lola Run (1998)" title="Franka Potente in Run Lola Run (1998)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB522736550_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BZmMwNTcwYjktNDEyYi00YmNjLTkxYzUtNTY2ZWFiN2Y0Mzk1XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY105_CR31,0,105,105_AL_.jpg" itemprop='image' /></a>                
+<a href="/title/tt0130827/mediaviewer/rm1892189440?context=default&ref_=tt_pv_md_3"
+itemprop='thumbnailUrl'><img height="105" width="105" alt="Franka Potente in Run Lola Run (1998)" title="Franka Potente in Run Lola Run (1998)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB522736550_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMzA3NDk2ODk1NF5BMl5BanBnXkFtZTcwNTg2MTAzNA@@._V1_UY105_CR26,0,105,105_AL_.jpg" itemprop='image' /></a>                
+<a href="/title/tt0130827/mediaviewer/rm954995968?context=default&ref_=tt_pv_md_4"
+itemprop='thumbnailUrl'><img height="105" width="105" alt="Franka Potente in Run Lola Run (1998)" title="Franka Potente in Run Lola Run (1998)"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/unknown-1394846836._CB522736550_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BNjlhOTdlZmYtYzM2NS00NmQyLThlZDQtMTNhODBkMDkzNWMyXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_UY105_CR34,0,105,105_AL_.jpg" itemprop='image' /></a>    </div>
+                </div>
+            <div class="combined-see-more see-more">
+<a href="/title/tt0130827/mediaindex?ref_=tt_pv_mi_sm"
+><span class="titlePageSprite showAllVidsAndPics"></span></a>
+<a href="/title/tt0130827/mediaindex?ref_=tt_pv_mi_sm"
+>52 photos</a>
+<span class="ghost">|</span>
+<a href="/title/tt0130827/videogallery?ref_=tt_pv_vi_sm"
+>1 video</a>
+<span class="ghost">|</span>
+<a href="/title/tt0130827/news?ref_=tt_pv_nw_sm"
+>536 news articles</a> &raquo;            </div>
+        </div>
+      </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_finished');
+    }
+  </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleMediaStripWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleMediaStripWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleMediaStripWidget", {wb: 1});
+    }
+</script>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleRecsWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleRecsWidget_started');
+    }
+  </script>
+    
+        <div class="article" id="titleRecs">
+            <span class="rightcornerlink">
+            <a href="/help/show_leaf?personalrecommendations&ref_=tt_rec_lm"
+>Learn more</a>
+            </span>
+            
+            <h2 class="rec_heading_wrapper">  
+                <span class="rec_heading" data-spec="p13nsims:tt0130827">People who liked this also liked...&nbsp;</span>
+            </h2>
+
+            <div class="rec_wrapper" id="title_recs"
+                data-items-per-request="24"
+                data-items-per-page="6"
+                data-specs="p13nsims:tt0130827"
+                data-caller-name="p13nsims-title">      
+                
+    <div class="rec_const_picker">
+        <div class="rec_view">
+            <div class="rec_grave" style="display:none"></div>
+            <div class="rec_slide">
+                        <div class="rec_page">         
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt0301357">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0301357/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Good Bye Lenin!" title="Good Bye Lenin!"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB522736596_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0MTg4NzI3M15BMl5BanBnXkFtZTcwOTE0MTUyMQ@@._V1_UY113_CR1,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt0250258">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0250258/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="The Experiment" title="The Experiment"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB522736596_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BOTI3YWRkMzctZTFmNC00NWUzLWJlOTYtYWM0YzBiMTBiNjRlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX76_CR0,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt1063669">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt1063669/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="The Wave" title="The Wave"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB522736596_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BODIzODYzNTM4OF5BMl5BanBnXkFtZTcwOTQ5MjQ4MQ@@._V1_UY113_CR2,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt0408777">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0408777/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="The Edukators" title="The Edukators"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB522736596_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MDYyNjExOF5BMl5BanBnXkFtZTcwMTcyNDAzMQ@@._V1_UY113_CR4,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+    
+    <div class="rec_item" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt0396171">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0396171/?ref_=tt_rec_tti"
+><img height="113" width="76" alt="Perfume: The Story of a Murderer" title="Perfume: The Story of a Murderer"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/small/film-293970583._CB522736596_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NjUyMTk3Nl5BMl5BanBnXkFtZTcwOTA5MzkzMQ@@._V1_UY113_CR0,0,76,113_AL_.jpg" /> <br/>
+</a>    </div>
+
+                        </div>
+            </div>
+            <div class="rec_nav">
+                <div class="rec_nav_page_num"></div>
+                <a class="rec_nav_left">&#9668; Prev 6</a>
+                <a class="rec_nav_right">Next 6 &#9658;</a>
+            </div>
+        </div>
+    </div>
+    
+   <div class="rec_overviews">
+
+         
+      <div class="rec_overview" data-tconst="tt0301357">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt0301357">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0301357/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Good Bye Lenin!" title="Good Bye Lenin!"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB522736516_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0MTg4NzI3M15BMl5BanBnXkFtZTcwOTE0MTUyMQ@@._V1_UY190_CR1,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0301357" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0301357/?ref_=tt_rec_tt"
+><b>Good Bye Lenin!</b></a>
+            <span class="nobr">(2003)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for Good Bye Lenin! (2003)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Drama          
+ <span class="ghost">|</span> 
+                     Romance          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0301357|imdb|7.7|7.7|p13nsims-title|tt0130827|title|main" data-ga-identifier=""
+title="Users rated this 7.7/10 (120,853 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 107.8px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.7</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0301357/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+In 1990, to protect his fragile mother from a fatal shock after a long coma, a young man must keep her from learning that her beloved nation of East Germany as she knew it has disappeared.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Wolfgang Becker  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Daniel Brühl, 
+Katrin Saß, 
+Chulpan Khamatova</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0250258">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt0250258">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0250258/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="The Experiment" title="The Experiment"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB522736516_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BOTI3YWRkMzctZTFmNC00NWUzLWJlOTYtYWM0YzBiMTBiNjRlXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_UX128_CR0,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0250258" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0250258/?ref_=tt_rec_tt"
+><b>The Experiment</b></a>
+            <span class="nobr">(2001)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for The Experiment (2001)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Drama          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0250258|imdb|7.8|7.8|p13nsims-title|tt0130827|title|main" data-ga-identifier=""
+title="Users rated this 7.8/10 (82,552 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 109.2px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.8</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0250258/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+For two weeks, 20 male participants are hired to play prisoners and guards in a prison. The "prisoners" have to follow seemingly mild rules, and the "guards" are told to retain order without using physical violence.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Oliver Hirschbiegel  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Moritz Bleibtreu, 
+Christian Berkel, 
+Oliver Stokowski</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt1063669">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt1063669">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt1063669/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="The Wave" title="The Wave"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB522736516_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BODIzODYzNTM4OF5BMl5BanBnXkFtZTcwOTQ5MjQ4MQ@@._V1_UY190_CR3,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt1063669" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt1063669/?ref_=tt_rec_tt"
+><b>The Wave</b></a>
+            <span class="nobr">(2008)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for The Wave (2008)"
+                          class="us_not_rated titlePageSprite absmiddle"></span>
+
+                     Drama          
+ <span class="ghost">|</span> 
+                     Thriller          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt1063669|imdb|7.6|7.6|p13nsims-title|tt0130827|title|main" data-ga-identifier=""
+title="Users rated this 7.6/10 (87,255 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 106.4px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.6</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt1063669/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+A high school teacher's experiment to demonstrate to his students what life is like under a dictatorship spins horribly out of control when he forms a social unit with a life of its own.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Dennis Gansel  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Frederick Lau, 
+Max Riemelt, 
+Jennifer Ulrich</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0408777">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt0408777">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0408777/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="The Edukators" title="The Edukators"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB522736516_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTc2MDYyNjExOF5BMl5BanBnXkFtZTcwMTcyNDAzMQ@@._V1_UY190_CR7,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0408777" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0408777/?ref_=tt_rec_tt"
+><b>The Edukators</b></a>
+            <span class="nobr">(2004)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for The Edukators (2004)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Drama          
+ <span class="ghost">|</span> 
+                     Romance          
+
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0408777|imdb|7.5|7.5|p13nsims-title|tt0130827|title|main" data-ga-identifier=""
+title="Users rated this 7.5/10 (28,126 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 105px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.5</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0408777/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+Three activists cobble together a kidnapping plot after they encounter a businessman in his home.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Hans Weingartner  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Daniel Brühl, 
+Julia Jentsch, 
+Stipe Erceg</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+         
+      <div class="rec_overview" data-tconst="tt0396171">
+    
+    
+    
+    <div class="rec_poster" data-info="" data-spec="p13nsims:tt0130827" data-tconst="tt0396171">
+        <div class="rec_overlay">
+            <div class="rec_filter"></div>
+            <div class="glyph rec_watchlist_glyph"></div>
+            <div class="glyph rec_blocked_glyph"></div>
+            <div class="glyph rec_rating_glyph"></div>
+            <div class="glyph rec_pending_glyph"></div>                        
+        </div>            
+<a href="/title/tt0396171/?ref_=tt_rec_tti"
+><img height="190" width="128" alt="Perfume: The Story of a Murderer" title="Perfume: The Story of a Murderer"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/large/film-184890147._CB522736516_.png"class="loadlate hidden rec_poster_img" loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTI0NjUyMTk3Nl5BMl5BanBnXkFtZTcwOTA5MzkzMQ@@._V1_UY190_CR0,0,128,190_AL_.jpg" /> <br/>
+</a>    </div>
+
+    
+       <div class="rec_actions">
+     
+         <div class="rec_action_divider">
+           <div class="wlb_classic_wrapper">
+             <span class="wlb_wrapper">
+               <a class="rec_wlb_watchlist_btn" data-tconst="tt0396171" data-size="medium" data-caller-name="p13nsims-title" data-type="primary"></a>
+             </span>
+           </div>  
+         </div> 
+       
+         <div class="rec_action_divider">
+           <span class="btn2_wrapper">
+             <a class="rec_next rec_half_button btn2 medium btn2_text_on" title="Show me the next title" onclick="">
+               <span class="btn2_glyph">0</span>
+               <span class="btn2_text">Next &raquo;</span>
+             </a>
+           </span>
+         </div>    
+         
+             <input type="hidden" name="49e6c" value="da29">
+       </div>
+       
+       <div class="rec_details">
+         <div class="rec-info">
+         
+           <div class="rec-jaw-upper">  
+
+     <div class="rec-title">
+       <a href="/title/tt0396171/?ref_=tt_rec_tt"
+><b>Perfume: The Story of a Murderer</b></a>
+            <span class="nobr">(2006)</span>
+   </div>  
+             
+
+
+    <div class="rec-cert-genre rec-elipsis">
+        
+
+            
+            
+                
+                    <span title="Ratings certificate for Perfume: The Story of a Murderer (2006)"
+                          class="us_r titlePageSprite absmiddle"></span>
+
+                     Crime          
+ <span class="ghost">|</span> 
+                     Drama          
+ <span class="ghost">|</span> 
+                     Fantasy          
+
+        
+    </div>
+             
+             <div class="rec-rating">
+               
+
+  
+
+  
+<div class="rating rating-list" data-starbar-class="rating-list" data-auth="" data-user="" id="tt0396171|imdb|7.5|7.5|p13nsims-title|tt0130827|title|main" data-ga-identifier=""
+title="Users rated this 7.5/10 (202,318 votes) - click stars to rate" >
+<span class="rating-bg">&nbsp;</span>
+<span class="rating-imdb " style="width: 105px">&nbsp;</span>
+<span class="rating-stars">
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>1</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>2</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>3</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>4</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>5</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>6</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>7</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>8</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>9</span></a>
+      <a href="/register/login?why=vote&ref_=tt_ov_rt"
+rel="nofollow" title="Register or login to rate this title" ><span>10</span></a>
+</span>
+<span class="rating-rating "><span class="value">7.5</span><span class="grey">/</span><span class="grey">10</span></span>
+<span class="rating-cancel "><a href="/title/tt0396171/vote?v=X;k=" title="Delete" rel="nofollow"><span>X</span></a></span>
+&nbsp;</div>
+
+               <div class="rec-outline">
+    <p>
+Jean-Baptiste Grenouille, born with a superior olfactory sense, creates the world's finest perfume. His work, however, takes a dark turn as he searches for the ultimate scent.    </p>
+               </div>
+               
+             </div>  
+             
+           </div>
+           
+           <div class="rec-jaw-lower">
+             <div class="rec-jaw-teeth"></div>                       
+ <div class="rec-director rec-ellipsis">
+      <b>Director:</b>
+Tom Tykwer  </div>
+<div class="rec-actor rec-ellipsis"> <span>
+    <b>Stars:</b> 
+Ben Whishaw, 
+Dustin Hoffman, 
+Alan Rickman</span></div> 
+           </div>
+           
+         </div>
+       </div>
+ 
+      </div>
+     
+    
+   </div>
+   
+                
+            </div>
+        </div>  
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleRecsWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleRecsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleRecsWidget", {wb: 1});
+    }
+</script>
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleCastWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleCastWidget_started');
+    }
+  </script>
+    <div class="article" id="titleCast">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_cl"
+rel="login">Edit</a>
+    </span>
+        <h2>Cast</h2>
+        
+        <table class="cast_list">    
+  <tr><td colspan="4" class="castlist_label">Complete credited cast:</td></tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm0004376/?ref_=tt_cl_i1"
+><img height="44" width="32" alt="Franka Potente" title="Franka Potente"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BNTY3ODYyNjU0NV5BMl5BanBnXkFtZTcwNDMxNDE3OA@@._V1_UX32_CR0,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0004376/?ref_=tt_cl_t1"
+itemprop='url'> <span class="itemprop" itemprop="name">Franka Potente</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            <a href="/character/ch0005632/?ref_=tt_cl_t1" >Lola</a> 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm0001953/?ref_=tt_cl_i2"
+><img height="44" width="32" alt="Moritz Bleibtreu" title="Moritz Bleibtreu"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMTk1Nzc5NTk4MF5BMl5BanBnXkFtZTcwOTQyMDMxNw@@._V1_UX32_CR0,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0001953/?ref_=tt_cl_t2"
+itemprop='url'> <span class="itemprop" itemprop="name">Moritz Bleibtreu</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            <a href="/character/ch0005633/?ref_=tt_cl_t2" >Manni</a> 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm0460578/?ref_=tt_cl_i3"
+><img height="44" width="32" alt="Herbert Knaup" title="Herbert Knaup"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BZTJlOTBlMTEtN2YwZC00NzQ4LWFjZTAtMjc5MzEyNTVhYWZkXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_UY44_CR15,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0460578/?ref_=tt_cl_t3"
+itemprop='url'> <span class="itemprop" itemprop="name">Herbert Knaup</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            <a href="/character/ch0005635/?ref_=tt_cl_t3" >Vater</a> 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm0677899/?ref_=tt_cl_i4"
+><img height="44" width="32" alt="Nina Petri" title="Nina Petri"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BNmM5NGQ0MmYtY2MwNC00YzAwLTk4OGYtZDQxZmVhMzJlM2MwXkEyXkFqcGdeQXVyNDE4MDU5OTE@._V1_UY44_CR17,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0677899/?ref_=tt_cl_t4"
+itemprop='url'> <span class="itemprop" itemprop="name">Nina Petri</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            <a href="/character/ch0082486/?ref_=tt_cl_t4" >Jutta Hansen</a> 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm0737465/?ref_=tt_cl_i5"
+><img height="44" width="32" alt="Armin Rohde" title="Armin Rohde"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMzE1MTU4MjU0NV5BMl5BanBnXkFtZTcwNTQyMDQ0Ng@@._V1_UY44_CR23,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0737465/?ref_=tt_cl_t5"
+itemprop='url'> <span class="itemprop" itemprop="name">Armin Rohde</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            <a href="/character/ch0005636/?ref_=tt_cl_t5" >Herr Schuster</a> 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm0473166/?ref_=tt_cl_i6"
+><img height="44" width="32" alt="Joachim Król" title="Joachim Król"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BZjQ0ZWRjNTItMmJkNi00ZDBjLThhZjgtMzc0M2VkMWNiMDJjXkEyXkFqcGdeQXVyNTkyOTA4MjM@._V1_UY44_CR16,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0473166/?ref_=tt_cl_t6"
+itemprop='url'> <span class="itemprop" itemprop="name">Joachim Król</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Norbert von Au 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm0685598/?ref_=tt_cl_i7"
+><img height="44" width="32" alt="Ludger Pistor" title="Ludger Pistor"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BNTU5YmRhNjYtMzIxNi00MThjLWEyMmYtOWRmNTc2MmJlN2Y3XkEyXkFqcGdeQXVyMTUxNTc0NDU@._V1_UX32_CR0,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0685598/?ref_=tt_cl_t7"
+itemprop='url'> <span class="itemprop" itemprop="name">Ludger Pistor</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            <a href="/character/ch0005634/?ref_=tt_cl_t7" >Herr Meier</a> 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm0902028/?ref_=tt_cl_i8"
+><img height="44" width="32" alt="Suzanne von Borsody" title="Suzanne von Borsody"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0902028/?ref_=tt_cl_t8"
+itemprop='url'> <span class="itemprop" itemprop="name">Suzanne von Borsody</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Frau Jäger 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm0771923/?ref_=tt_cl_i9"
+><img height="44" width="32" alt="Sebastian Schipper" title="Sebastian Schipper"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BZjc4OWExNGUtMTQxMS00NGZhLTgxZGItOTg4ZGFmNjIyYzRlXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_UY44_CR16,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0771923/?ref_=tt_cl_t9"
+itemprop='url'> <span class="itemprop" itemprop="name">Sebastian Schipper</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Mike 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm0511938/?ref_=tt_cl_i10"
+><img height="44" width="32" alt="Julia Lindig" title="Julia Lindig"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0511938/?ref_=tt_cl_t10"
+itemprop='url'> <span class="itemprop" itemprop="name">Julia Lindig</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Doris 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="odd">
+          <td class="primary_photo">
+<a href="/name/nm0748964/?ref_=tt_cl_i11"
+><img height="44" width="32" alt="Lars Rudolph" title="Lars Rudolph"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png" class="" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0748964/?ref_=tt_cl_t11"
+itemprop='url'> <span class="itemprop" itemprop="name">Lars Rudolph</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Herr Kruse 
+                  
+              </div>
+          </td>
+      </tr>
+      <tr class="even">
+          <td class="primary_photo">
+<a href="/name/nm0272224/?ref_=tt_cl_i12"
+><img height="44" width="32" alt="Heino Ferch" title="Heino Ferch"src="http://ia.media-imdb.com/images/G/01/imdb/images/nopicture/32x44/name-2138558783._CB522736171_.png"class="loadlate hidden " loadlate="https://images-na.ssl-images-amazon.com/images/M/MV5BMjAzMjUwNzI5M15BMl5BanBnXkFtZTcwMzk4NDUyNA@@._V1_UX32_CR0,0,32,44_AL_.jpg" /></a>          </td>
+          <td class="itemprop" itemprop="actor" itemscope itemtype="http://schema.org/Person">
+<a href="/name/nm0272224/?ref_=tt_cl_t12"
+itemprop='url'> <span class="itemprop" itemprop="name">Heino Ferch</span>
+</a>          </td>
+          <td class="ellipsis">
+              ...
+          </td>
+          <td class="character">
+              <div>
+            Ronnie 
+                  
+              </div>
+          </td>
+      </tr>
+        </table>
+        <div class="see-more">
+            <a href="fullcredits?ref_=tt_cl_sm#cast"
+>See full cast</a>&nbsp;&raquo;
+        </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleCastWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleCastWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleCastWidget", {wb: 1});
+    }
+</script>
+
+
+
+    
+    
+    
+
+	
+	<!-- no content received for slot: maindetails_center_ad -->
+	
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleStorylineWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleStorylineWidget_started');
+    }
+  </script>
+    <div class = "article" id="titleStoryLine">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_stry"
+rel="login">Edit</a>
+    </span>
+    
+        <h2>Storyline</h2>
+        
+        <div class="inline canwrap" itemprop="description">
+            <p>
+Lola receives a phone call from her boyfriend Manni. He lost 100,000 DM in a subway train that belongs to a very bad guy. Lola has 20 min to raise this amount and meet Manni. Otherwise, he will rob a store to get the money. Three different alternatives may happen depending on some minor event along Lola's run.                <em class="nobr">Written by
+<a href="/search/title?plot_author=Claudio%20Carvalho,%20Rio%20de%20Janeiro,%20Brazil&view=simple&sort=alpha&ref_=tt_stry_pl"
+>Claudio Carvalho, Rio de Janeiro, Brazil</a></em>            </p>
+        </div>
+        
+        <span class="see-more inline"> 
+                <a href="/title/tt0130827/plotsummary?ref_=tt_stry_pl"
+>Plot Summary</a>
+    <span>|</span>
+        <a href="/title/tt0130827/synopsis?ref_=tt_stry_pl"
+>Plot Synopsis</a>
+    </span>
+        <hr />
+        <div class="see-more inline canwrap" itemprop="keywords">
+            <h4 class="inline">Plot Keywords:</h4>
+<a href="/keyword/running?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">running</span></a>
+                        <span>|</span>
+<a href="/keyword/race-against-the-clock?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">race against the clock</span></a>
+                        <span>|</span>
+<a href="/keyword/repeated-event?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">repeated event</span></a>
+                        <span>|</span>
+<a href="/keyword/money?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">money</span></a>
+                        <span>|</span>
+<a href="/keyword/big-city-life?ref_=tt_stry_kw"
+> <span class="itemprop" itemprop="keywords">big city life</span></a>
+            <span>|</span>&nbsp;<nobr><a href="/title/tt0130827/keywords?ref_=tt_stry_kw"
+>See All (101)</a>&nbsp;&raquo;</nobr>
+
+        </div>      
+        <hr />
+        <div class="txt-block">
+            <h4 class="inline">Taglines:</h4>
+The Pressure is Rising, The Adrenaline is Rushing, The Clock is Ticking                <span class="see-more inline">
+<a href="/title/tt0130827/taglines?ref_=tt_stry_tg"
+> See more</a>&nbsp;&raquo;
+                </span>
+        </div>
+        <hr />
+        <div class="see-more inline canwrap" itemprop="genre">
+            <h4 class="inline">Genres:</h4>
+<a href="/genre/Crime?ref_=tt_stry_gnr"
+> Crime</a>&nbsp;<span>|</span>
+<a href="/genre/Drama?ref_=tt_stry_gnr"
+> Drama</a>&nbsp;<span>|</span>
+<a href="/genre/Thriller?ref_=tt_stry_gnr"
+> Thriller</a>
+        </div>      
+        
+             <hr/>
+    
+    <div class="txt-block">
+                <h4>Motion Picture Rating
+                    (<a href="/mpaa?ref_=tt_stry_pg"
+>MPAA</a>)
+                </h4>
+            <span itemprop="contentRating">Rated R for some violence and language</span>
+<span class="ghost">|</span>            <span class="see-more inline">
+<a href="/title/tt0130827/parentalguide?ref_=tt_stry_pg#certification"
+> See all certifications</a>&nbsp;&raquo;
+            </span>
+    </div>
+    <div class="txt-block">
+        <h4 class="inline">Parents Guide:</h4>
+        <span class="see-more inline" itemprop="audience" itemscope itemtype="http://schema.org/Audience">
+<a href="/title/tt0130827/parentalguide?ref_=tt_stry_pg"
+itemprop='url'> View content advisory</a>&nbsp;&raquo;
+        </span>
+    </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleStorylineWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleStorylineWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleStorylineWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleDetailsWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDetailsWidget_started');
+    }
+  </script>
+    
+    <div class = "article" id="titleDetails">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_dt_dt"
+rel="login">Edit</a>
+    </span>
+        <h2>Details</h2>
+      <div class="txt-block">
+      <h4 class="inline">Official Sites:</h4>
+    <a href="/offsite/?page-action=offsite-facebook&token=BCYg6lCerJM22QhxYHaJdduoX51FE_CDXgF-BLptdxnrwbumtyfJpAj-f6Te2rNIJGNIXyD9ZShP%0D%0A-93z_Ht4M_-hGiy6MW1ga8ncqmvh4fmLs-xqTvFgk3cHGN3TPiQg0ZrzuE5ViIFfaRW7dwup6JYs%0D%0AzqePIzvld3L7ExrjgGbQHXNDwqZ-jZyw3yPPNppDWywI0nXHhp_snJnpY1Vx8XOeh7PRgpB7OqJj%0D%0AF4vJxaOmPUc%0D%0A&ref_=tt_pdt_ofs_offsite_0"
+rel="nofollow" itemprop='url'>Official Facebook</a>
+          <span class="ghost">|</span>
+        
+    <a href="/offsite/?page-action=offsite-miramax&token=BCYj-bAQ1y4-a_hDOSAsQ59mK0R5xdSE-vGaF_GFZZ27v-9LrcAgAzta4H1jK1F_6iTjpTYJgRf2%0D%0A49XQuHnTchn_DRNpVWysEwX5A7HJLmsWmoPbSb0H-m1ONK_ahIhbtAD8YGoUJ_zPHfpBpur2BT5c%0D%0APj2dcArCzoSrHbrQfVzXv-k7LTY_k__vUQ_gmcHwLuq1Ff8Qacylg3HsDVujXCqdLNkxWMmpEByG%0D%0AIbxLzcjZJRc%0D%0A&ref_=tt_pdt_ofs_offsite_1"
+rel="nofollow" itemprop='url'>Official site</a>
+               <span class="see-more inline">
+      </span>
+      </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Country:</h4>
+        <a href="/search/title?country_of_origin=de&ref_=tt_dt_dt"
+itemprop='url'>Germany</a>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Language:</h4>
+        <a href="/search/title?title_type=feature&primary_language=de&sort=moviemeter,asc&ref_=tt_dt_dt"
+itemprop='url'>German</a>
+            <span class="ghost">|</span>
+        <a href="/search/title?title_type=feature&primary_language=en&sort=moviemeter,asc&ref_=tt_dt_dt"
+itemprop='url'>English</a>
+            <span class="ghost">|</span>
+        <a href="/search/title?title_type=feature&primary_language=ja&sort=moviemeter,asc&ref_=tt_dt_dt"
+itemprop='url'>Japanese</a>
+    </div>
+  
+    
+    <div class="txt-block">
+    <h4 class="inline">Release Date:</h4> 18 June 1999 (USA)
+    <span class="see-more inline">
+      <a href="releaseinfo?ref_=tt_dt_dt"
+itemprop='url'>See more</a>&nbsp;&raquo;
+    </span>
+    </div>
+  
+      <div class="txt-block">
+      <h4 class="inline">Also Known As:</h4> Lola Runs
+      <span class="see-more inline">
+        <a href="releaseinfo?ref_=tt_dt_dt#akas"
+itemprop='url'>See more</a>&nbsp;&raquo;
+      </span>
+      </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Filming Locations:</h4> 
+    <a href="/search/title?locations=Mitte,%20Berlin,%20Germany&ref_=tt_dt_dt"
+itemprop='url'>Mitte, Berlin, Germany</a>
+      <span class="see-more inline">
+        <a href="locations?ref_=tt_dt_dt"
+itemprop='url'>See more</a>&nbsp;&raquo;
+      </span>
+    </div>
+  
+    <hr /> 
+    <h3 class="subheading">Box Office</h3>
+  
+      <div class="txt-block">
+      <h4 class="inline">Budget:</h4>        DEM&nbsp;3,500,000        
+
+      <span class="attribute">(estimated)</span>
+      </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Opening Weekend:</h4>         $92,488        
+
+      (USA)
+      <span class="attribute">(18 June 1999)</span>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Gross:</h4>        $7,267,324        
+
+      <span class="attribute">(USA)</span>
+      <span class="attribute">(21 January 2000)</span>
+    </div>
+  
+  <span class="see-more inline">
+    <a href="business?ref_=tt_dt_bus"
+itemprop='url'>See more</a>&nbsp;&raquo;
+  </span>  
+  <hr /> 
+  <h3 class="subheading">Company Credits</h3>
+    <div class="txt-block">
+    <h4 class="inline">Production Co:</h4>
+        <span itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+<a href="/company/co0055954?ref_=tt_dt_co"
+itemprop='url'><span class="itemprop" itemprop="name">X-Filme Creative Pool</span></a></span>,        <span itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+<a href="/company/co0075650?ref_=tt_dt_co"
+itemprop='url'><span class="itemprop" itemprop="name">Westdeutscher Rundfunk (WDR)</span></a></span>,        <span itemprop="creator" itemscope itemtype="http://schema.org/Organization">
+<a href="/company/co0014456?ref_=tt_dt_co"
+itemprop='url'><span class="itemprop" itemprop="name">Arte</span></a></span>      <span class="see-more inline">
+        <a href="companycredits?ref_=tt_dt_co"
+itemprop='url'>See more</a>&nbsp;&raquo;
+      </span>
+    </div>
+  <div class="txt-block"> 
+  Show detailed
+<a href="http://pro.imdb.com/title/tt0130827/companycredits?rf=cons_tt_cocred_tt&ref_=cons_tt_cocred_tt"
+itemprop='url'>company contact information</a>
+  on 
+  <a href="http://pro.imdb.com/signup/index.html?rf=cons_tt_cocred_spl&ref_=cons_tt_cocred_spl"
+itemprop='url'>IMDbPro</a>&nbsp;&raquo;
+  </div>
+  
+
+  <hr />
+  <h3 class="subheading">Technical Specs</h3>
+  
+    <div class="txt-block">
+      <h4 class="inline">Runtime:</h4> 
+        <time itemprop="duration" datetime="PT81M">81 min</time>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Sound Mix:</h4>
+        <a href="/search/title?sound_mixes=dolby_digital&ref_=tt_dt_spec"
+itemprop='url'>Dolby Digital</a>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Color:</h4>
+        <a href="/search/title?colors=black_and_white&ref_=tt_dt_spec"
+itemprop='url'> Black and White</a>
+<span class="ghost">|</span>        <a href="/search/title?colors=color&ref_=tt_dt_spec"
+itemprop='url'>Color</a>
+    </div>
+  
+    <div class="txt-block">
+    <h4 class="inline">Aspect Ratio:</h4> 1.85 : 1
+    </div>
+  
+  See <a href="technical?ref_=tt_dt_spec"
+itemprop='url'>full technical specs</a>&nbsp;&raquo;
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDetailsWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleDetailsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleDetailsWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleDidYouKnowWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDidYouKnowWidget_started');
+    }
+  </script>
+    <div id="titleDidYouKnow" class="article">
+    <span class=rightcornerlink >
+            <a href="/register/login?why=edit&ref_=tt_trv_trv"
+rel="login">Edit</a>
+    </span>
+        <h2>Did You Know?</h2>
+    <div id="trivia" class="txt-block">
+        <h4>Trivia</h4>
+The two sentences at the opening ("The ball is round" and "The game lasts 90 minutes") are famous quotes by German soccer coaching legend <a href="/name/nm1359756?ref_=tt_trv_trv">Sepp Herberger</a>.        <a href="trivia?ref_=tt_trv_trv"
+class="nobr" >See more</a>  &raquo;
+    </div>
+                <hr />
+     <div id="goofs"  class="txt-block">
+        <h4>Goofs</h4>
+In the casino, Lola wins big. We see the roulette wheel stop after the second turn she takes on 20 black. The wheel is actually stopped. Yet, as Lola cashes out and we see everyone staring at her at the cashier&#39;s counter, the roulette wheel is still turning        <a href="trivia?tab=gf&ref_=tt_trv_gf"
+class="nobr" >See more</a>  &raquo;
+    </div>   
+                <hr />
+    <div id="quotes" class="text-block">
+        <h4>Quotes</h4>
+[<span class="fine">first lines</span>]
+<br />[<span class="fine">subtitled version</span>]
+<br /><a href="/name/nm0655962/?ref_=tt_trv_qu"
+><span class="character">Narrator</span></a>:
+Man... probably the most mysterious species on our planet. A mystery of unanswered questions. Who are we? Where do we come from? Where are we going? How do we know what we think we know? Why do we believe anything at all? Countless questions in search of an answer... an answer that will give rise to a new question... and the next answer will give rise to the next question and so on. But, in the end, isn't it always the same question? And always the same answer?
+<br />        <a href="trivia?tab=qt&ref_=tt_trv_qu"
+class="nobr" >See more</a> &raquo;
+    </div>
+                <hr />
+     <div id="crazyCredits"  class="txt-block">
+        <h4>Crazy Credits</h4>
+The end credits run backwards, from top to bottom.        <a href="trivia?tab=cz&ref_=tt_trv_cc"
+class="nobr" >See more</a>  &raquo;
+    </div>   
+                <hr />
+    <div id="connections" class="text-block">
+        <h4>Connections</h4>
+        Spoofed in <a href="/title/tt7247266?ref_=tt_trv_cnn">Run Frodo Run</a>&nbsp;(2002)
+
+
+        <a href="trivia?tab=mc&ref_=tt_trv_cnn"
+class="nobr" >See more</a> &raquo;
+    </div>
+                <hr />
+    <div id="soundtracks" class="text-block">
+        <h4>Soundtracks</h4>
+Running Two <br />
+Vocals by <a href="/name/nm0004376/">Franka Potente</a> / <a href="/name/nm0878756/">Tom Tykwer</a> <br />
+Music by <a href="/name/nm0878756/">Tom Tykwer</a> (as Tykwer) / <a href="/name/nm0459517/">Johnny Klimek</a> (as Klimek) / <a href="/name/nm0374112/">Reinhold Heil</a> (as Heil) <br />
+Lyrics by <a href="/name/nm0878756/">Tom Tykwer</a> <br />
+Performed by <a href="/name/nm0878756/">Tom Tykwer</a> (as Tykwer) / <a href="/name/nm0459517/">Johnny Klimek</a> (as Klimek) / <a href="/name/nm0374112/">Reinhold Heil</a> (as Heil) feat. <a href="/name/nm0004376/">Franka Potente</a> <br />        <a href="soundtrack?ref_=tt_trv_snd"
+class="nobr" >See more</a> &raquo;
+    </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleDidYouKnowWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleDidYouKnowWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleDidYouKnowWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleFAQWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleFAQWidget_started');
+    }
+  </script>
+    
+    <div class="article" id="titleFAQ">
+        <h2>Frequently Asked Questions</h2>
+        
+            <div class="faq" >
+                    <div class="odd">
+                    <b>Q:</b>
+<a href="/title/tt0130827/faq?ref_=tt_faq_1#.2.1.2"
+> Who was the man in the ambulance?</a>
+                    </div>
+                    <div class="even">
+                    <b>Q:</b>
+<a href="/title/tt0130827/faq?ref_=tt_faq_2#.2.1.4"
+> How much sex, violence, and profanity are in this movie?</a>
+                    </div>
+                    <div class="odd">
+                    <b>Q:</b>
+<a href="/title/tt0130827/faq?ref_=tt_faq_3#.2.1.8"
+> Is it possible to follow Lola's route?</a>
+                    </div>
+            </div>
+        
+            <span class="see-more inline" >        
+                <a href="/title/tt0130827/faq?ref_=tt_faq_sm"
+class="nobr" >See more</a>
+                <span class="spoilers">(Spoiler Alert!)</span></span>&nbsp;&raquo;
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleFAQWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleFAQWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleFAQWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+<script>
+    if (typeof uet == 'function') {
+      uet("bb", "TitleUserReviewsWidget", {wb: 1});
+    }
+</script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_started');
+    }
+  </script>
+    <div class="article" id="titleUserReviewsTeaser">
+        <h2>User Reviews</h2>
+        <div class="user-comments">
+                <span itemprop="review" itemscope itemtype="http://schema.org/Review">  
+                    <strong itemprop="name">Lola Rennt</strong>
+                    <span itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+                        <meta itemprop="worstRating" content = "1" />
+                        <meta itemprop="ratingValue" content="0" />
+                        <meta itemprop="bestRating" content="10" />
+                    </span>
+                    <div class="comment-meta">
+                        26 February 2003 | by <a href="/user/ur2237766/?ref_=tt_urv"
+><span itemprop="author">Duncan</span></a>
+                        <meta itemprop="datePublished" content="2003-02-26" />
+                              (australia)
+                        &ndash; <a href="/user/ur2237766/comments?ref_=tt_urv"
+>See all my reviews</a>
+                    </div>
+                    <div>
+                        <p itemprop="reviewBody"> Lola rennt or Run Lola Run as we say it, is a German thriller written and directed by Tom Tykwer. This Film will contrast your emotions as it shows you how one little event in somebody's life can change there's, and other peoples lives forever. This rollercoaster ride of emotions will keep you gripped all the way through as it jumps from soft, dimly lit emotional scenes, to the completely contrasting scenes of running and constant action.<br /><br /> The music used in this film complements the scenes very well, when it's a slow scene our ears are graced with soft classical music like when Lola is falling to the ground in a slow motion shot. The complete opposite of this is used in the fast paced running scenes, as we get pounded by constant techno beats. I believe that the director has used techno to try and get us inside Lola's head as she is running and stressing about Manni and all the other events that happen throughout this amazing film.<br /><br /> Lola's Determination to save her boyfriend Manni is very well projected as she enters the bank that her father runs, and throughout the three different versions of the story uses different techniques to try and save him. This involvement with the characters and the three different storylines is very unique to this style of film. I think that the actors have delivered a very memorable and exciting performance which will leave viewers wanting to watch the film over and over again.<br /><br />I think that this director has used this style of film very well, he is one of this first to successfully use this style and create a very interesting and exciting film. This film is almost the only one of its kind, other than the film 'Sliding Doors' but even in that the character is living two parallel lives but in this film it is replayed over again.<br /><br /> This film used interesting techniques that I had never seen in a film before. I think that the snapshots into the peoples lives gave you a good view of how one little event can change your life forever. By replaying through the same sort of events three times the director lets you really get a sense of feeling for the characters, especially Lola and as the film progresses you actually start to care about the characters and I think this was a really good quality in the film.<br /><br /> Overall I really enjoyed this film, and think that it is one of the best foreign films I have seen in a long time, and would give it a 9/10.<br /><br /></p>
+                    </div>
+                </span>
+                <hr />
+                <div class="yn" id="ynd_505113">
+                    63 of 82 people found this review helpful.&nbsp;
+                    Was this review helpful to you?
+                    <button class="btn small" value="Yes" name="ynb_505113_yes" onclick="CS.TMD.user_review_vote(505113, 'tt0130827', 'yes');" >Yes</button>
+                    <button class="btn small" value="No" name="ynb_505113_no" onclick="CS.TMD.user_review_vote(505113, 'tt0130827', 'no');" >No</button>
+                </div>
+            <div class="see-more">
+                
+                <a href="/title/tt0130827/reviews-enter?ref_=tt_urv"
+rel="login">Review this title</a>
+                <span>|</span>
+                    <a href="/title/tt0130827/reviews?ref_=tt_urv"
+>See all 712 user reviews</a>&nbsp;&raquo;
+            </div>
+        </div>
+    </div>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_finished');
+    }
+  </script>
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleUserReviewsWidget_finished');
+    }
+  </script>
+<script>
+    if (typeof uet == 'function') {
+      uet("be", "TitleUserReviewsWidget", {wb: 1});
+    }
+</script>
+<script>
+    if (typeof uex == 'function') {
+      uex("ld", "TitleUserReviewsWidget", {wb: 1});
+    }
+</script>
+
+
+    
+    
+    
+
+
+    
+    
+    
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleContributeWidget_started');
+    }
+  </script>
+    <div class="article contribute">
+        <div class="rightcornerlink">
+<a href="/help/?adding/&ref_=tt_cn_hlp"
+>Getting Started</a>
+            <span>|</span>
+<a href="/czone/?ref_=tt_cn_cz"
+>Contributor Zone</a>&nbsp;&raquo;</div>
+        <h2>Contribute to This Page</h2>
+
+                <div class="button-box">
+                    <form method="get" action="https://contribute.imdb.com/updates">
+                        <input type="hidden" name="ref_" value="tt_cn_edt" />
+                        <input type="hidden" name="edit" value="legacy/title/tt0130827/" />
+                            <button class="btn primary large" rel="login" type="submit">Edit page</button>
+                    </form>
+                </div>
+        
+
+    
+
+        <div class="button-box">
+<a href="/title/tt0130827/reviews-enter?ref_=tt_cn_urv"
+class="btn large" rel="login">Write review</a>          
+        </div>
+    
+    
+        <div class="form-box">
+            <form method="post" action="/character/create?ref_=tt_cn_ch" accept-charset="ISO-8859-1">
+                <input type="hidden" value="tt0130827" name="title">
+                <div class="form-txt">Create a character page for:</div>
+                <select id="character_select" name="name" data-tconst="tt0130827">
+                        <option value="Norbert von Au">Norbert von Au</option>
+                        <option value="Frau Jäger">Frau Jäger</option>
+                        <option value="Mike">Mike</option>
+                        <option value="Doris">Doris</option>
+                        <option value="Herr Kruse">Herr Kruse</option>
+                        <option value="Ronnie">Ronnie</option>
+                     <option disabled="disabled">-----------</option>
+                     <option value="...">more...</option>
+                </select>
+                <button class="btn small">Create &raquo;</button>
+                <a href="/help/show_leaf?createchar&ref_=tt_cn_chhlp"
+class="btn small" >?</a>
+            </form>
+        </div>
+    </div>
+
+  <script>
+    if ('csm' in window) {
+      csm.measure('csm_TitleContributeWidget_finished');
+    }
+  </script>
+
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    
+    
+    
+
+    </div>
+    <br class="clear"/>
+</div> 
+
+
+    
+    
+    
+
+    
+    
+    
+
+                   <br class="clear" />
+                </div>
+
+
+
+
+
+
+    <div id="footer" class="ft">
+
+            <div id="rvi-div">
+                <div class="recently-viewed">&nbsp;</div>
+                <br class="clear">
+            </div>
+
+	
+	<!-- no content received for slot: bottom_ad -->
+	
+
+        <div class="container footer-grid-wrapper">
+            <div class="row footer-row">
+                <div class="col outside">
+    <h3>IMDb Everywhere</h3>
+    <div class="app-links">
+    <a href="/offsite/?page-action=ft_app_apple&token=BCYvwJluLRD6TWqPQZrIJi1il1kN5WmWNaYIdyYlUh9GX8AWWhuBYgy9LuHaAEkpsjEnA2s5Azp4%0D%0A9iqsF_Z3ZSybZE6QyTQ2VVW-F9KDEn0u7nzKnXCjo-L2LMgp4AgxnDeGP_oaZ7heTClZjsWaXWEx%0D%0ACpLmoOt56nGI1K4R_oZ5SSJ-zGJh7Oo0nVXbNd8hT7SAx8-HJACcH2JIIbjIQu-D35xWrHkOs86a%0D%0AyJQitjCvYsA%0D%0A&ref_=ft_app_apple"
+title="Get the IMDb App on the Apple App Store" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-apple" ></span>
+</a>
+    <a href="/offsite/?page-action=ft_app_google&token=BCYvHrFraUGcDM0W6eqWqCZHTO-l3sS1rhP2Td_-AgngQ0rS-8XwDwY4yEe9eUKGvdMGe75VMevB%0D%0AhAEwA3xunBwl-DF_o5HO9Qkwoh0wLnUOcCv2FB2VgCS8HTsl9Nj-cqododWi1ddpSQ5YcEyjooDN%0D%0AXxiNB6jfkZDMB_kNxBrAcNlC2jjqBf1WJbYJhTZikaldNTnryt6nCUs4WGHFNXzukfwNTOugV4Hu%0D%0A2uxESzCwvr0%0D%0A&ref_=ft_app_google"
+title="Get the IMDb app on Google Play" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-google" ></span>
+</a>
+    <a href="/offsite/?page-action=ft_app_amazon&token=BCYtmQ7Yn-rV4Yg-mDiggCEylmEyLU97STWRTe-oQAn8dcwuJ6aY-pMS7RA9dgyO5B5V33vA_AZ7%0D%0A3BFx9AwJcwO08JpRVuO9mXJ447KISlLuwT9wVbGIMERW8DHYh67rIA9gsbKUiISOpikPec17cNRj%0D%0APTWkSbHkCgEoZFjufL2v-urxlNSFPM6BSTzkoJtEruW_4kkArDo7veH_xvgY6kY2BX_kb3ybd1b2%0D%0AVPcs0RyPYzKXBr1v7iZvSGupwe8Dd2DASqdiHIIWx-viHVYQoCG12qtudcqMg21FGkiSyzPy7qqo%0D%0Ajn008CRMblHN2cVCB7T_jtLJQNvHZ2mZWlpaFfWNX10Trtxox9P1lTGxPOz3C3-e_IInbz-eVUre%0D%0AvEBG9yB7w4t-80F4lvUweK4CfCBrFR-eWAbQ2SbAmjbtyT9WQkc%0D%0A&ref_=ft_app_amazon"
+title="Get the IMDb app on Amazon Appstore for Android" target="_blank" itemprop='url'> <span class="desktop-sprite appstore-amazon" ></span>
+</a>
+    </div>
+
+    <p>Find showtimes, watch trailers, browse photos, track your Watchlist and rate your favorite movies and TV shows on your phone or tablet!</p>
+
+    <a href="http://m.imdb.com?ref_=ft_mdot"
+class="touchlink" >IMDb Mobile site</a>
+                </div>
+                <div class="col center">
+  <div class="link-bar icon-link-bar">
+    <h3>
+      Follow IMDb on
+      <div>
+
+    <a href="/offsite/?page-action=fol_fb&token=BCYv8yUBIGiU2-y6FefY3gCk9ZrULQPCnJXfY6q1RgVN9o9I2N3fSdh2OoGkhFhf2gMfwagbDVNE%0D%0AzURo5pGQAZQ6fNCSzV0JHbh3l9xgsKkXHf23Ue6kBjicAF0F43EB7ccRKIl89tuYuuMIUQ2YbS-b%0D%0AtDfZ3f9-FrX4bFtsbo1fdVJi3TdZHz8iOquuyMeEaqcslNBvkoetZ3AbT7IifDAvLA%0D%0A&ref_=tt_ft_fol_fb"
+title="Follow IMDb on Facebook" target="_blank" itemprop='url'> <span class="desktop-sprite follow-facebook" ></span>
+</a>
+    <a href="/offsite/?page-action=fol_tw&token=BCYsxdhvXlMUm7yMDlAVohVjRx34m8pOsqBBQt2Hue-BzQhX5kdElEIG0RDXuP_7Ftg5F1e0DxHr%0D%0A6vvImPDp2mK5FUjb1FqRY7BMBaa2CKtDlGtP4QeOb0ffTDrG2vdRxkXLAuu4dk3fei6c4um972DY%0D%0Ar2O4NPj0v69EsyFVLQh_akoxLmcPeMjvbA9l4ogKlvsGGYlNKNoY8GNH5RiQpgI1lg%0D%0A&ref_=tt_ft_fol_tw"
+title="Follow IMDb on Twitter" target="_blank" itemprop='url'> <span class="desktop-sprite follow-twitter" ></span>
+</a>
+    <a href="/offsite/?page-action=fol_inst&token=BCYlMopY6GgWeySElBELrvwDDQ66ocRRKmGduByS-iU4CfIJZUL1rAUR2tp5sx-RNW-x2hxTgEQT%0D%0A9jUn-bz5nMa8byo3YyfkjGE8Yk_8ECnmca6Rh16ZjC7ZwzFTs0k1Alc1Oh5CBFjwcNShMgWFn3QQ%0D%0AfObm-Rfa4SJc0NLjNtJzgIkPRr54PljUJCBndgNO2xm-Av6kf0yzdW3SVeZrVudR9w%0D%0A&ref_=tt_ft_fol_inst"
+title="Follow IMDb on Instagram" target="_blank" itemprop='url'> <span class="desktop-sprite follow-instagram" ></span>
+</a>
+      </div>
+    </h3>
+  </div>
+                </div>
+                <div class="col outside">
+    <div class="row">
+        <div class="col col-4">
+            <ul class="unstyled">
+                <li><a href="/?ref_=ft_hm"
+>Home</a></li>
+                <li><a href="/chart/top?ref_=ft_250"
+>Top Rated Movies</a></li>
+                <li><a href="/chart/?ref_=ft_cht"
+>Box Office</a></li>
+                <li><a href="/sections/tv/?ref_=ft_tv"
+>TV</a></li>
+                <li><a href="/movies-coming-soon/?ref_=ft_cs"
+>Coming Soon</a></li>
+                <li><a href="/a2z?ref_=ft_si"
+>Site Index</a></li>
+                <li><a href="/search?ref_=ft_sr"
+>Search</a></li>
+                <li><a href="/movies-in-theaters/?ref_=ft_inth"
+>In Theaters</a></li>
+            </ul>
+        </div>
+        <div class="col col-4">
+            <ul class="unstyled">
+                <li><a href="/helpdesk/contact?ref_=ft_con"
+>Contact Us</a></li>
+                <li>        <a href="https://secure.imdb.com/register-imdb/form-v2?ref_=ft_reg"
+>Register</a>
+</li>
+                <li><a href="/news/?ref_=ft_nw"
+>News</a></li>
+                <li class="spacer"></li>
+                <li><a href="/pressroom/?ref_=ft_pr"
+>Press Room</a></li>
+                <li><a href="/advertising/?ref_=ft_ad"
+>Advertising</a></li>
+                <li><a href="/jobs?ref_=ft_jb"
+>Jobs</a></li>
+            </ul>
+        </div>
+        <div class="col col-4">
+            <ul class="unstyled">
+                <li><a href="http://pro.imdb.com/signup/index.html?rf=cons_ft_hm&ref_=cons_ft_hm"
+>IMDbPro</a></li>
+                <li>    <a href="/offsite/?page-action=ft-mojo&token=BCYr_No2yE-7ouC4jpRIPT_L4iUVc_tT2I2Cr-w5vwrBlwytBPbDGLLGg-qWY9rCV_RSUg7gVpPM%0D%0AH6acmTTGIarxnZnH_E-F0Ki4JK47xsCALEL47ZbsEMwtb33vPm9XFjT_967hDpt1uF60-vpAWrK-%0D%0AMjRlUXAvbnBtaD2UUQSHBnVgcuaBuwtembN_PfpUYpFmnk8rh_nh77yzjGNsSOD5tw%0D%0A&ref_=ft_bom"
+itemprop='url'>Box Office Mojo</a>
+</li>
+                <li>    <a href="/offsite/?page-action=ft-wab&token=BCYp6TfewW9o-1cj2jTQab3Tp5QG_A8sbDdnoCVUQWCIvsj5poS_5-MS3IvomnlU0hPMptAvCW1P%0D%0AaC5TAYeO05I7sXA8totPOsRfRkQSoLsoea_zC4DovkVcyEWIaTwoKz5cKI7a9sNQT5bcGBQaLoou%0D%0A93BonvqKN3llfaXBdW2KrQgYhxNZIYze5X9_6Yz2mNu4hPBgoR90oheR0WIrCEy3DQ%0D%0A&ref_=ft_wab"
+itemprop='url'>Withoutabox</a>
+</li>
+                <li class="spacer"></li>
+                <li><a href="/help/show_article?conditions&ref_=ft_cou"
+>Conditions of Use</a></li>
+                <li><a href="/privacy?ref_=ft_pvc"
+>Privacy Policy</a></li>
+                <li>    <a href="/offsite/?page-action=ft-iba&token=BCYuuEkvZoJk76nTGCA_p8aiMTffSnCgJrlvYF7sboKkrvGKIUkZj_kejWXMhTOYYPz_DP_75SYz%0D%0ALe6DoCkD_CfocLWE6A78tv1h_3dVFWRlHefOPK8cVjUNV1HAmg8g5yTM4R21P0-7Lz-9XnkLdHx1%0D%0Agxx6K8YGaBl38TuOhNTEC8z_yvA737BPDn_gKuWEOeyHMhJVijn4sdk_5IwIbvYoCGa2_brYG1od%0D%0Addgj4rZBgFw7TUv2WWuiFeI3J2dtDj38%0D%0A&ref_=ft_iba"
+itemprop='url'>Interest-Based Ads</a>
+</li>
+                <li class="spacer"></li>
+            </ul>
+        </div>
+    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="container">
+            <div class="ft-copy float-right">
+                <a
+href="/help/show_article?conditions"
+>Copyright &copy;</a> 1990-2017
+                <a
+href="/help/"
+>IMDb.com, Inc.</a>
+            </div>
+            <div>
+                An <span id="amazon_logo" class="footer_logo" align="middle">Amazon.com</span> company.
+            </div>
+        </div>
+
+
+
+    <table class="footer" id="amazon-affiliates">
+        <tr>
+            <td colspan="8">
+                Amazon Affiliates
+            </td>
+        </tr>
+        <tr>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-aiv&token=BCYmHu-I4qNCOzbf4uhczCsB67AexWISYoqSKF3bYIknVCXlAGAUNcIlzU8J6EnXHXzejzbnzwn4%0D%0A-aAADNy0_PYS13sUbOmgU4RMqdKRAfP8O7_sVZp4Z248JPCzfxCO42LHnBIjyRTR_D1U9jKxUrNb%0D%0AKnZwl9yIMcE9TncpfZFnHHHSsSX9u4QqCaHZRMWVSYCY-Ewmo4F72w4I8ACiiZvV-U56tmHkd8I3%0D%0A9DSb9VM_hss%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon Video</span><br>
+                <span class="amazon-affiliate-site-desc">Watch Movies &<br>TV Online</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-piv&token=BCYkjnH5QcrFSEHbUEwnwMSAEG9Vpfml5xhNjC-75iQBvslkQl2v01ItBnagvmb4n3YKxM3ImiDK%0D%0AmgE3A-4b-bNrkshDOWu_VQagP0A-FDbJy6VYI8a8i6NmXwM9RBLry8qM6AIMDALU_P9_a5M6qazq%0D%0ABfwMDs36iD5qDPD2OukO8Xc3fiGEghKYXOyR1hGuYGz0gM-cqT5KD_yvy17arpCuwQlF0yMD9xmf%0D%0AZnGMhL5pa7g%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Prime Video</span><br>
+                <span class="amazon-affiliate-site-desc">Unlimited Streaming<br>of Movies & TV</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-de&token=BCYssdcVWTTDL2AqrxO0G-AaUDWkeuYsr0lzkivrdYpjNwF1Ln7BmAy_cqoO-2EZSZMNppFppSOJ%0D%0Aewe_zoDp-xOnc0hZrYwMHY528ccirDFrcm7wA8bwy5Di4XhX4y7UwXWQsGF5f44VUlNNWUnjXdPn%0D%0A-xcWsvqLIpRgKFT3RmPHgjasB0uUdHiaZOydzAe2zRIWiS4I9oaki61Hwb6HLJDQJ3mCCzvUU77_%0D%0AFLSNdedxlxE%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon Germany</span><br>
+                <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-it&token=BCYgc32dsQV_-wrPo1UHRotUfnuHKPTR1BHaTmuHfbmRhPkUrILI63zcFrNee37BsSUhqwDtGMz5%0D%0ANranAOxqYoQF9Znw7idUxV-Vh2kZnaUhqEcp5zskDAxjbiOBIbT02H2diPIiNUbkXd_J-Ilmy7mN%0D%0AP26tx6yvxf39KpRa6JcKtel8RaG6zcJTd3_Kl0f7T3KwAqVHOtYht2_zZXXRcb_2D8MDQosFvi-1%0D%0AosBQ2AFJq5E%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon Italy</span><br>
+                <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-fr&token=BCYp6KReizeRKUzx2-wSSZkJQDEWM_UOCN_H1TykrTyYet_uFZxrH4UvdUW15R-J3QW1fGIo-svk%0D%0AW9lFAzjgg69tddE6Df9FB4ak1tAuL0QOcwem2VYXwQwruh7yaK1GjttX1mqOx0aKE_ZCrZXvb_Xp%0D%0A-huOvOWFWeeQrYCMgDetnpsIcc7Zf3edvC1cwVJs6v_1Mdgi5dAHcbhsaVlbQ-vLOwejD-6KYxET%0D%0A4svofaE-r8g%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon France</span><br>
+                <span class="amazon-affiliate-site-desc">Buy Movies on<br>DVD & Blu-ray</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-in&token=BCYp50lFi8rMkQi_tGpxJ0K7vliFAkQIotPF_xJm9RIMUc2VGyEprN9HlPEejCCOu69wOW-tFFGO%0D%0Ae6P9WZA3l_7SxX35VcVsbUU0OlvSNKh3lSmSg8i-f4PNaIe9Zu0_jAn3Q7k-MLsSmbTN5Nxnq29b%0D%0AnW5D6ihUNzBQ4g98sN4Cd9eQfwlD-AOH1eLfefritwza8BHNQklCvjGDg-uPZL0qHBuu6a77wo8I%0D%0ACVn0Qwh5L0nC25es48puLQPVceioFRhd%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Amazon India</span><br>
+                <span class="amazon-affiliate-site-desc">Buy Movie and<br>TV Show DVDs</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-dpr&token=BCYkf3f6zxb3zpyeaFIWv48bK5RX_505mB-Km4t397m5tBhOWalhGy3G091QzYEPld6sruvXx9VK%0D%0AacweVrpQFlP0RPyBfnmCwAKz36lMX7bWg7YXjE4CIZl3VSgG3XG90fvbzri8NlSOsHdwUzhdIUHF%0D%0AzoOMzI59VGCKD3qXqXi9ve8%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">DPReview</span><br>
+                <span class="amazon-affiliate-site-desc">Digital<br>Photography</span>
+            </a>
+        </div>
+    </td>
+
+    <td>
+        <div>
+            <a href="/offsite/?page-action=ft-amzn-aud&token=BCYu1fLGmbK0oRilD_1YirQoKzZ70mAwcopSoWGvdFMDKj761AvJXPwHNq4kQ9Sgi3y8KVe4coV7%0D%0AAVZz4OlLbs-h8BEvvCdIyUuzbdxWTmoX20zFNW1rrUI97qTwUnGZp58T-6t8xjt4qYG56rO-JT17%0D%0AHvoKJSq6JKmhdl12vGKquKI%0D%0A" class="amazon-affiliate-site-link">
+                <span class="amazon-affiliate-site-name">Audible</span><br>
+                <span class="amazon-affiliate-site-desc">Download<br>Audio Books</span>
+            </a>
+        </div>
+    </td>
+        </tr>
+    </table>
+      </div>
+            </div>
+        </div>
+
+
+
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/common-2411119445._CB508084084_.js"></script>
+<script type="text/javascript" src="http://ia.media-imdb.com/images/G/01/imdb/js/collections/title-2914051692._CB517816652_.js"></script>
+
+<script type="text/javascript" id="login">
+(function(){
+    var readyTimeout = setInterval(function() {
+        if (window.jQuery && window.imdb && window.imdb.login_lightbox) {
+            clearTimeout(readyTimeout);
+            window.imdb.login_lightbox();
+        }
+    }, 100);
+})();
+</script>
+
+        <script type="text/javascript">
+        function jQueryOnReady(remaining_count) {
+            if (window.jQuery && typeof $.fn.watchlistRibbon !== 'undefined') {
+                jQuery(
+                             function() {
+           var isAdvertisingThemed = !!(window.custom && window.custom.full_page && window.custom.full_page.theme),
+               url = "http://www.facebook.com/widgets/like.php?width=280&show_faces=1&layout=standard&href=http%3A%2F%2Fwww.imdb.com%2Ftitle%2Ftt0130827%2F&colorscheme=light",
+               like = document.getElementById('iframe_like');
+
+           if (!isAdvertisingThemed && like) {
+              like.src = url;
+              like.onload = function () { 
+                  if (uex) { uex('ld', 'facebook_like_iframe', {wb: 1}); }
+              };
+           } else if (isAdvertisingThemed) {
+              $('.social_networking_like').closest('.aux-content-widget-2').hide();
+           }
+        }
+
+                );
+                jQuery(
+                             function() {
+            var facebookTheme = (window.custom && window.custom.full_page &&
+                    window.custom.full_page.theme) ?
+                window.custom.full_page.theme : "light",
+            url = "//www.facebook.com/plugins/likebox.php?href=facebook.com%2Fimdb&width=300&height=190&connections=4&header=false&stream=false&colorscheme=" + facebookTheme,
+            like = document.getElementById('facebookIframe'),
+            twitterIframe = document.getElementById('twitterIframe');
+            if (like) {
+                like.src = url;
+            }
+            if (twitterIframe) {
+                twitterIframe.src = "http://i.media-imdb.com/images/social/twitter.html?10#imdb";
+            }
+         }
+
+                );
+            } else if (remaining_count > 0) {
+                setTimeout(function() { jQueryOnReady(remaining_count-1) }, 100);
+            }
+        }
+        jQueryOnReady(50);
+        </script>
+
+
+<div id="servertime" time="179"/>
+
+
+
+<script>
+    if (typeof uet == 'function') {
+      uet("be");
+    }
+</script>
+
+    </body>
+</html>
+
