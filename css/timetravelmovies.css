@@ -2,6 +2,10 @@ body {
 	background-color: #F9F9F9!important;
 }
 
+.time-row {
+	margin-bottom: 40px;
+	margin-top: 40px;
+}
 
 .card-text a {
 	color: #212529;
@@ -30,6 +34,7 @@ body {
   border-radius: 0.25rem;
   width: 100%;
   max-height: 269px;
+  max-width: 730px;
 }
 
 .card-img-left {
